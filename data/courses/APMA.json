@@ -1,0 +1,393 @@
+[
+    {
+        "code": "APMA 0111",
+        "title": "Data Science and Social Justice",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26025"
+    },
+    {
+        "code": "APMA 0160",
+        "title": "Introduction to Scientific Computing",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17762"
+    },
+    {
+        "code": "APMA 0200",
+        "title": "Introduction to Modeling",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17535"
+    },
+    {
+        "code": "APMA 0260",
+        "title": "Linear Algebra and Multivariable Calculus for Applied Mathematics",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26311"
+    },
+    {
+        "code": "APMA 0350",
+        "title": "Applied Ordinary Differential Equations",
+        "semesters": [
+            "Fall",
+            "Spring",
+            "Summer"
+        ],
+        "crn": "17536"
+    },
+    {
+        "code": "APMA 0360",
+        "title": "Applied Partial Differential Equations I",
+        "semesters": [
+            "Fall",
+            "Spring"
+        ],
+        "crn": "17538"
+    },
+    {
+        "code": "APMA 0650",
+        "title": "Essential Statistics",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26029"
+    },
+    {
+        "code": "APMA 1070",
+        "title": "Quantitative Models of Biological Systems",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26030"
+    },
+    {
+        "code": "APMA 1080",
+        "title": "Inference in Genomics and Molecular Biology",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17539"
+    },
+    {
+        "code": "APMA 1160",
+        "title": "An Introduction to Numerical Optimization",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26031"
+    },
+    {
+        "code": "APMA 1170",
+        "title": "Introduction to Computational Linear Algebra",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17540"
+    },
+    {
+        "code": "APMA 1180",
+        "title": "Introduction to Numerical Solution of Differential Equations",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26032"
+    },
+    {
+        "code": "APMA 1200",
+        "title": "Operations Research: Probabilistic Models",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26033"
+    },
+    {
+        "code": "APMA 1210",
+        "title": "Operations Research: Deterministic Models",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17541"
+    },
+    {
+        "code": "APMA 1330",
+        "title": "Applied Partial Differential Equations II",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17542"
+    },
+    {
+        "code": "APMA 1360",
+        "title": "Applied Dynamical Systems",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26034"
+    },
+    {
+        "code": "APMA 1650",
+        "title": "Statistical Inference I",
+        "semesters": [
+            "Fall",
+            "Spring",
+            "Summer"
+        ],
+        "crn": "17543"
+    },
+    {
+        "code": "APMA 1655",
+        "title": "Honors Statistical Inference I",
+        "semesters": [
+            "Fall",
+            "Spring"
+        ],
+        "crn": "17544"
+    },
+    {
+        "code": "APMA 1660",
+        "title": "Statistical Inference II",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26038"
+    },
+    {
+        "code": "APMA 1690",
+        "title": "Computational Probability and Statistics",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17545"
+    },
+    {
+        "code": "APMA 1710",
+        "title": "Information Theory",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26039"
+    },
+    {
+        "code": "APMA 1740",
+        "title": "Recent Applications of Probability and Statistics",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26040"
+    },
+    {
+        "code": "APMA 1860",
+        "title": "Graphs and Networks",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17546"
+    },
+    {
+        "code": "APMA 1910",
+        "title": "Race and Gender in the Scientific Community",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17764"
+    },
+    {
+        "code": "APMA 1930P",
+        "title": "Mathematics and Climate",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26232"
+    },
+    {
+        "code": "APMA 1930Q",
+        "title": "Mathematical Models of Cortical Dynamics",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26853"
+    },
+    {
+        "code": "APMA 1930W",
+        "title": "Probabilities in Quantum Mechanics",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26049"
+    },
+    {
+        "code": "APMA 1930X",
+        "title": "Probability, Optimization, and Stochastic Calculus",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "18905"
+    },
+    {
+        "code": "APMA 1930Z",
+        "title": "Introduction to Mathematical Machine Learning",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "18628"
+    },
+    {
+        "code": "APMA 2070",
+        "title": "Deep Learning for Scientists & Engineers",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26042"
+    },
+    {
+        "code": "APMA 2110",
+        "title": "Real Analysis",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17547"
+    },
+    {
+        "code": "APMA 2120",
+        "title": "Hilbert Spaces and Their Applications",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26043"
+    },
+    {
+        "code": "APMA 2190",
+        "title": "Nonlinear Dynamical Systems I",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17548"
+    },
+    {
+        "code": "APMA 2200",
+        "title": "Nonlinear Dynamical Systems: Theory and Applications",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26044"
+    },
+    {
+        "code": "APMA 2550",
+        "title": "Numerical Solution of Partial Differential Equations I",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17549"
+    },
+    {
+        "code": "APMA 2560",
+        "title": "Numerical Solution of Partial Differential Equations II",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26045"
+    },
+    {
+        "code": "APMA 2570B",
+        "title": "Numerical Solution of Partial Differential Equations III",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "19012"
+    },
+    {
+        "code": "APMA 2580A",
+        "title": "Computational Fluid Dynamics",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26046"
+    },
+    {
+        "code": "APMA 2610",
+        "title": "Recent Applications of Probability and Statistics",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26041"
+    },
+    {
+        "code": "APMA 2630",
+        "title": "Theory of Probability I",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17551"
+    },
+    {
+        "code": "APMA 2640",
+        "title": "Theory of Probability II",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26047"
+    },
+    {
+        "code": "APMA 2670",
+        "title": "Mathematical Statistics I",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17552"
+    },
+    {
+        "code": "APMA 2680",
+        "title": "Mathematical Statistics II",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26048"
+    },
+    {
+        "code": "APMA 2810Q",
+        "title": "Discontinous Galerkin Methods",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17553"
+    },
+    {
+        "code": "APMA 2822B",
+        "title": "Introduction to Parallel Computing on Heterogeneous (CPU+GPU) Systems",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17554"
+    },
+    {
+        "code": "APMA 2822G",
+        "title": "Topics in Optimal Transport and High Dimensional Probability",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26205"
+    },
+    {
+        "code": "APMA 2822H",
+        "title": "Topics in Approximation Theory",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26487"
+    },
+    {
+        "code": "APMA 2990",
+        "title": "Thesis Preparation",
+        "semesters": [
+            "Fall",
+            "Spring"
+        ],
+        "crn": "16535"
+    }
+]

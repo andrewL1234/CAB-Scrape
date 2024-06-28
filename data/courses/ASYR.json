@@ -1,0 +1,51 @@
+[
+    {
+        "code": "ASYR 0300",
+        "title": "Babylon: Myth and Reality",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "19326"
+    },
+    {
+        "code": "ASYR 1000",
+        "title": "Introduction to Akkadian",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "18260"
+    },
+    {
+        "code": "ASYR 1050",
+        "title": "Brotherhood of Kings: A History of the Ancient Middle East\u2019s First International Age, 2000-1200 BCE",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "19343"
+    },
+    {
+        "code": "ASYR 1600",
+        "title": "Astronomy Before the Telescope",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "19347"
+    },
+    {
+        "code": "ASYR 2920",
+        "title": "Hittite Historical Texts",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "19001"
+    },
+    {
+        "code": "ASYR 2990",
+        "title": "Thesis Preparation",
+        "semesters": [
+            "Fall",
+            "Spring"
+        ],
+        "crn": "16537"
+    }
+]

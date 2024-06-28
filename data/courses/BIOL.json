@@ -1,0 +1,848 @@
+[
+    {
+        "code": "BIOL 0080",
+        "title": "Biotechnology Management",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "25931"
+    },
+    {
+        "code": "BIOL 0100",
+        "title": "Living Biology at Brown and Beyond",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "20226"
+    },
+    {
+        "code": "BIOL 0170",
+        "title": "Biotechnology in Medicine",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17803"
+    },
+    {
+        "code": "BIOL 0190F",
+        "title": "Darwinian Medicine",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "10285"
+    },
+    {
+        "code": "BIOL 0190P",
+        "title": "Pride and Prejudice in the Development of Scientific Theories",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "10260"
+    },
+    {
+        "code": "BIOL 0190R",
+        "title": "Phage Hunters, Part I",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "10246"
+    },
+    {
+        "code": "BIOL 0190S",
+        "title": "Phage Hunters, Part II",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "20217"
+    },
+    {
+        "code": "BIOL 0200",
+        "title": "The Foundation of Living Systems",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "10261"
+    },
+    {
+        "code": "BIOL 0210",
+        "title": "Diversity of Life",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "10286"
+    },
+    {
+        "code": "BIOL 0220",
+        "title": "Discovering Novel Protein Folding Phenotypes of Wild Yeast",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "18643"
+    },
+    {
+        "code": "BIOL 0280",
+        "title": "Biochemistry",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "20227"
+    },
+    {
+        "code": "BIOL 0285",
+        "title": "Inquiry in Biochemistry: From Gene to Protein Function",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "20228"
+    },
+    {
+        "code": "BIOL 0380",
+        "title": "The Ecology and Evolution of Infectious Disease",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "10287"
+    },
+    {
+        "code": "BIOL 0410",
+        "title": "Invertebrate Zoology",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "10288"
+    },
+    {
+        "code": "BIOL 0420",
+        "title": "Principles of Ecology",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "20253"
+    },
+    {
+        "code": "BIOL 0430",
+        "title": "The Evolution of Plant Diversity",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "20254"
+    },
+    {
+        "code": "BIOL 0440",
+        "title": "Inquiry in Plant Biology: Analysis of Plant Growth, Reproduction and Adaptive Responses",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "20230"
+    },
+    {
+        "code": "BIOL 0470",
+        "title": "Genetics",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "10262"
+    },
+    {
+        "code": "BIOL 0480",
+        "title": "Evolutionary Biology",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "10289"
+    },
+    {
+        "code": "BIOL 0495",
+        "title": "Statistical Analysis of Biological Data",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "20255"
+    },
+    {
+        "code": "BIOL 0500",
+        "title": "Cell and Molecular Biology",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "20231"
+    },
+    {
+        "code": "BIOL 0510",
+        "title": "Introductory Microbiology",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "20218"
+    },
+    {
+        "code": "BIOL 0530",
+        "title": "Principles of Immunology",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "10247"
+    },
+    {
+        "code": "BIOL 0610",
+        "title": "Modeling Human Disease Using Stem Cells",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26840"
+    },
+    {
+        "code": "BIOL 0620",
+        "title": "Fermentation to publication: Experimental food microbiology",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26865"
+    },
+    {
+        "code": "BIOL 0800",
+        "title": "Principles of Physiology",
+        "semesters": [
+            "Summer",
+            "Spring"
+        ],
+        "crn": "60023"
+    },
+    {
+        "code": "BIOL 0940A",
+        "title": "Viral Epidemics",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "10265"
+    },
+    {
+        "code": "BIOL 0940D",
+        "title": "Rhode Island Flora: Understanding and Documenting Local Plant Diversity",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "10290"
+    },
+    {
+        "code": "BIOL 1040",
+        "title": "Ultrastructure/Bioimaging",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "20232"
+    },
+    {
+        "code": "BIOL 1050",
+        "title": "Biology of the Eukaryotic Cell",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17977"
+    },
+    {
+        "code": "BIOL 1070",
+        "title": "Biotechnology and Global Health",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "10253"
+    },
+    {
+        "code": "BIOL 1100",
+        "title": "Cell Physiology and Biophysics",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "18963"
+    },
+    {
+        "code": "BIOL 1110",
+        "title": "Topics in Signal Transduction",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "10258"
+    },
+    {
+        "code": "BIOL 1140",
+        "title": "Tissue Engineering",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17952"
+    },
+    {
+        "code": "BIOL 1150",
+        "title": "Stem Cell Engineering",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "20249"
+    },
+    {
+        "code": "BIOL 1160",
+        "title": "Principles of Exercise Physiology",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17788"
+    },
+    {
+        "code": "BIOL 1222A",
+        "title": "Current Topics in Functional Genomics",
+        "semesters": [
+            "Fall",
+            "Spring"
+        ],
+        "crn": "18447"
+    },
+    {
+        "code": "BIOL 1250",
+        "title": "Host-microbiome Interactions in Health and Disease",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "20219"
+    },
+    {
+        "code": "BIOL 1260",
+        "title": "Physiological Pharmacology",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "10266"
+    },
+    {
+        "code": "BIOL 1270",
+        "title": "Advanced Biochemistry",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "10270"
+    },
+    {
+        "code": "BIOL 1290",
+        "title": "Cancer Biology",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "10306"
+    },
+    {
+        "code": "BIOL 1295",
+        "title": "Fundamentals of Cancer Immunotherapy",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26130"
+    },
+    {
+        "code": "BIOL 1300",
+        "title": "Biomolecular Interactions: Health, Disease and Drug Design",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "10272"
+    },
+    {
+        "code": "BIOL 1310",
+        "title": "Developmental Biology",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "10274"
+    },
+    {
+        "code": "BIOL 1330",
+        "title": "Biology of Reproduction",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "20236"
+    },
+    {
+        "code": "BIOL 1435",
+        "title": "Computational Methods for Studying Demographic History with Molecular Data",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "20256"
+    },
+    {
+        "code": "BIOL 1455",
+        "title": "Planetary Health: Global Environmental Change and Emerging Infectious Disease",
+        "semesters": [
+            "Summer"
+        ],
+        "crn": "60003"
+    },
+    {
+        "code": "BIOL 1470",
+        "title": "Conservation Biology",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "10294"
+    },
+    {
+        "code": "BIOL 1505",
+        "title": "Environmental Physiology",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "25871"
+    },
+    {
+        "code": "BIOL 1515",
+        "title": "Conservation in the Genomics Age",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "10291"
+    },
+    {
+        "code": "BIOL 1525",
+        "title": "Pathogenomics: Analysis, interpretation and applications of microbial genomes",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26550"
+    },
+    {
+        "code": "BIOL 1530",
+        "title": "Emergency Medical Systems: An Anatomy of Critical Performance",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "20259"
+    },
+    {
+        "code": "BIOL 1540",
+        "title": "Molecular Genetics",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "20237"
+    },
+    {
+        "code": "BIOL 1545",
+        "title": "Human Genetics and Genomics",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "20239"
+    },
+    {
+        "code": "BIOL 1555",
+        "title": "Methods in\u00a0Informatics\u00a0and Data Science for\u00a0Health",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "20221"
+    },
+    {
+        "code": "BIOL 1560",
+        "title": "Virology",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "10248"
+    },
+    {
+        "code": "BIOL 1565",
+        "title": "Survey of Biomedical Informatics",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "10250"
+    },
+    {
+        "code": "BIOL 1575",
+        "title": "Evaluation of Health Information Systems",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "10251"
+    },
+    {
+        "code": "BIOL 1580",
+        "title": "Metabolism Across Biological Scales: Integrative Physiology and Pathobiology",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26950"
+    },
+    {
+        "code": "BIOL 1610",
+        "title": "Experimental Neurobiology",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26123"
+    },
+    {
+        "code": "BIOL 1630",
+        "title": "Big Data Neuroscience Lab",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17965"
+    },
+    {
+        "code": "BIOL 1650",
+        "title": "Structure of the Nervous System",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "10282"
+    },
+    {
+        "code": "BIOL 1810",
+        "title": "21st Century Applications in Cell and Molecular Biology",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "20242"
+    },
+    {
+        "code": "BIOL 1820",
+        "title": "Environmental Health and Disease",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "20269"
+    },
+    {
+        "code": "BIOL 1855",
+        "title": "Tropical Medicine & Neglected Tropical Diseases",
+        "semesters": [
+            "Summer"
+        ],
+        "crn": "60106"
+    },
+    {
+        "code": "BIOL 1885",
+        "title": "Human Anatomy and Biomechanics",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "20257"
+    },
+    {
+        "code": "BIOL 1945",
+        "title": "Outbreaks and Infections: Harnessing History and Preventing Future Epidemics",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "18746"
+    },
+    {
+        "code": "BIOL 2010A",
+        "title": "Introduction to Molecular Research in the Life Sciences",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "10277"
+    },
+    {
+        "code": "BIOL 2010B",
+        "title": "Introduction to Data Science in Molecular Biology",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "20243"
+    },
+    {
+        "code": "BIOL 2015",
+        "title": "Conservation in the Genomics Age",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "10292"
+    },
+    {
+        "code": "BIOL 2018",
+        "title": "Management Strategies in Biotechnology",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "20223"
+    },
+    {
+        "code": "BIOL 2020",
+        "title": "Biotechnology Science and Industry",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "10284"
+    },
+    {
+        "code": "BIOL 2030",
+        "title": "Foundations for Advanced Study in the Life Sciences",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "10278"
+    },
+    {
+        "code": "BIOL 2040",
+        "title": "Ultrastructure/Bioimaging",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "20233"
+    },
+    {
+        "code": "BIOL 2050",
+        "title": "Biology of the Eukaryotic Cell",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17979"
+    },
+    {
+        "code": "BIOL 2075",
+        "title": "Evaluation of Health Information Systems",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "10252"
+    },
+    {
+        "code": "BIOL 2078",
+        "title": "Regulatory Affairs in Pharma, Med Device and Digital Health",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "25941"
+    },
+    {
+        "code": "BIOL 2089",
+        "title": "The Importance of Intellectual Property in Biotechnology",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "10254"
+    },
+    {
+        "code": "BIOL 2110",
+        "title": "Drug and Gene Delivery",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "18974"
+    },
+    {
+        "code": "BIOL 2135",
+        "title": "Pharmacokinetics and Drug Design",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "25942"
+    },
+    {
+        "code": "BIOL 2145",
+        "title": "Molecular Targets of Drug Discovery",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "20247"
+    },
+    {
+        "code": "BIOL 2150",
+        "title": "Scientific Communication",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "10279"
+    },
+    {
+        "code": "BIOL 2167",
+        "title": "In Vitro Models for Disease",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "25940"
+    },
+    {
+        "code": "BIOL 2170",
+        "title": "Molecular Pharmacology and Physiology",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "20248"
+    },
+    {
+        "code": "BIOL 2180",
+        "title": "Experiential Learning Industry, ELI",
+        "semesters": [
+            "Fall",
+            "Spring"
+        ],
+        "crn": "10255"
+    },
+    {
+        "code": "BIOL 2220",
+        "title": "Topics in Signal Transduction",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "18916"
+    },
+    {
+        "code": "BIOL 2222B",
+        "title": "Current Topics in Functional Genomics",
+        "semesters": [
+            "Fall",
+            "Spring"
+        ],
+        "crn": "18448"
+    },
+    {
+        "code": "BIOL 2230",
+        "title": "Biomedical Engineering and Biotechnology Seminar",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "10307"
+    },
+    {
+        "code": "BIOL 2240",
+        "title": "Biomedical Engineering and Biotechnology Seminar",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "20272"
+    },
+    {
+        "code": "BIOL 2250",
+        "title": "Survey of Modern Therapeutics",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "10281"
+    },
+    {
+        "code": "BIOL 2260",
+        "title": "Physiological Pharmacology",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "10268"
+    },
+    {
+        "code": "BIOL 2270",
+        "title": "Advanced Biochemistry",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "10271"
+    },
+    {
+        "code": "BIOL 2300",
+        "title": "Biomolecular Interactions: Health, Disease, and Drug Design",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "10273"
+    },
+    {
+        "code": "BIOL 2310",
+        "title": "Developmental Biology",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "10275"
+    },
+    {
+        "code": "BIOL 2350",
+        "title": "The Biology of Aging",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "20245"
+    },
+    {
+        "code": "BIOL 2430",
+        "title": "Topics in Ecology, Evolution and Organismal Biology",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "10295"
+    },
+    {
+        "code": "BIOL 2440",
+        "title": "Topics in Ecology, Evolution and Organismal Biology",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "25872"
+    },
+    {
+        "code": "BIOL 2528",
+        "title": "Innovation and Commercialization in Medical Devices, Diagnostics, and Wearables",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "20225"
+    },
+    {
+        "code": "BIOL 2540",
+        "title": "Molecular Genetics",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "20238"
+    },
+    {
+        "code": "BIOL 2545",
+        "title": "Human Genetics and Genomics",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "20240"
+    },
+    {
+        "code": "BIOL 2560",
+        "title": "Advanced Virology",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "10249"
+    },
+    {
+        "code": "BIOL 2860",
+        "title": "Molecular Mechanisms of Disease",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "10308"
+    },
+    {
+        "code": "BIOL 2970",
+        "title": "Preliminary Examination Preparation",
+        "semesters": [
+            "Fall",
+            "Spring"
+        ],
+        "crn": "16540"
+    },
+    {
+        "code": "BIOL 2990",
+        "title": "Thesis Preparation",
+        "semesters": [
+            "Fall",
+            "Spring"
+        ],
+        "crn": "16541"
+    },
+    {
+        "code": "BIOL XLIST",
+        "title": "Courses of Interest to Biology Concentrators",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "19405"
+    }
+]

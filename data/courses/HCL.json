@@ -1,0 +1,58 @@
+[
+    {
+        "code": "HCL 2000",
+        "title": "Strategy and Implementation for High-Performance Health Care",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "19338"
+    },
+    {
+        "code": "HCL 2010",
+        "title": "Healthcare Policy: Yesterday, Today, and Tomorrow",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "19337"
+    },
+    {
+        "code": "HCL 2060",
+        "title": "Quality Improvement and the Learning Organization",
+        "semesters": [
+            "Summer"
+        ],
+        "crn": "60088"
+    },
+    {
+        "code": "HCL 2100",
+        "title": "Health Law",
+        "semesters": [
+            "Summer"
+        ],
+        "crn": "60091"
+    },
+    {
+        "code": "HCL 2120",
+        "title": "Health Economics: Jargon, Theory, and Analytical Methods",
+        "semesters": [
+            "Summer"
+        ],
+        "crn": "60090"
+    },
+    {
+        "code": "HCL 2140",
+        "title": "Marketing for Health Care Transformation",
+        "semesters": [
+            "Summer"
+        ],
+        "crn": "60089"
+    },
+    {
+        "code": "HCL 2150",
+        "title": "Health Technology, Data, and Analysis",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "19336"
+    }
+]

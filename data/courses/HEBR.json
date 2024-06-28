@@ -1,0 +1,50 @@
+[
+    {
+        "code": "HEBR 0100",
+        "title": "Elementary Hebrew",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "16757"
+    },
+    {
+        "code": "HEBR 0200",
+        "title": "Elementary Hebrew",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "25433"
+    },
+    {
+        "code": "HEBR 0300",
+        "title": "Intermediate Hebrew",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "16758"
+    },
+    {
+        "code": "HEBR 0400",
+        "title": "Intermediate Hebrew",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "25434"
+    },
+    {
+        "code": "HEBR 0500",
+        "title": "Writing and Speaking Hebrew",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "16759"
+    },
+    {
+        "code": "HEBR 0600",
+        "title": "Issues in Contemporary Israeli Society, Politics, and Culture in Hebrew",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "25435"
+    }
+]

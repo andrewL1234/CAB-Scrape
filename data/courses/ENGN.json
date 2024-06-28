@@ -1,0 +1,1025 @@
+[
+    {
+        "code": "ENGN 0020",
+        "title": "Transforming Society-Technology and Choices for the Future",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "25449"
+    },
+    {
+        "code": "ENGN 0030",
+        "title": "Introduction to Engineering",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17927"
+    },
+    {
+        "code": "ENGN 0032",
+        "title": "Introduction to Engineering: Design",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17008"
+    },
+    {
+        "code": "ENGN 0040",
+        "title": "Engineering Statics and Dynamics",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "25454"
+    },
+    {
+        "code": "ENGN 0061",
+        "title": "Undergraduate Teaching Assistant Apprenticeship: Full Credit",
+        "semesters": [
+            "Fall",
+            "Spring"
+        ],
+        "crn": "17696"
+    },
+    {
+        "code": "ENGN 0062",
+        "title": "Undergraduate Teaching Assistant Apprenticeship: Half Credit",
+        "semesters": [
+            "Fall",
+            "Spring"
+        ],
+        "crn": "17697"
+    },
+    {
+        "code": "ENGN 0090",
+        "title": "Management of Industrial and Nonprofit Organizations",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "18256"
+    },
+    {
+        "code": "ENGN 0120A",
+        "title": "Crossing the Consumer Chasm by Design",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "25461"
+    },
+    {
+        "code": "ENGN 0120B",
+        "title": "Crossing the Space Chasm Through Engineering Design",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "25462"
+    },
+    {
+        "code": "ENGN 0260",
+        "title": "Mechanical Technology",
+        "semesters": [
+            "Fall",
+            "Spring"
+        ],
+        "crn": "18092"
+    },
+    {
+        "code": "ENGN 0310",
+        "title": "Mechanics of Solids and Structures",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17039"
+    },
+    {
+        "code": "ENGN 0410",
+        "title": "Materials Science",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17042"
+    },
+    {
+        "code": "ENGN 0490",
+        "title": "Fundamentals of Environmental Engineering",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17045"
+    },
+    {
+        "code": "ENGN 0510",
+        "title": "Electricity and Magnetism",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17046"
+    },
+    {
+        "code": "ENGN 0520",
+        "title": "Electrical Circuits and Signals",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "25468"
+    },
+    {
+        "code": "ENGN 0610",
+        "title": "Systems Thinking",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17050"
+    },
+    {
+        "code": "ENGN 0620",
+        "title": "Design Brief",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "25473"
+    },
+    {
+        "code": "ENGN 0720",
+        "title": "Thermodynamics",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "25474"
+    },
+    {
+        "code": "ENGN 0810",
+        "title": "Fluid Mechanics",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17051"
+    },
+    {
+        "code": "ENGN 0900",
+        "title": "Managerial Decision Making",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "25477"
+    },
+    {
+        "code": "ENGN 0930C",
+        "title": "DesignStudio",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "25478"
+    },
+    {
+        "code": "ENGN 0930L",
+        "title": "Biomedical Engineering Design and Innovation",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17056"
+    },
+    {
+        "code": "ENGN 0931L",
+        "title": "Biomedical Engineering Design and Innovation II",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "25479"
+    },
+    {
+        "code": "ENGN 1000",
+        "title": "Projects in Engineering Design I",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17058"
+    },
+    {
+        "code": "ENGN 1001",
+        "title": "Projects in Engineering Design II",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "25481"
+    },
+    {
+        "code": "ENGN 1010",
+        "title": "The Entrepreneurial Process",
+        "semesters": [
+            "Fall",
+            "Spring"
+        ],
+        "crn": "17059"
+    },
+    {
+        "code": "ENGN 1110",
+        "title": "Transport and Biotransport Processes",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "25484"
+    },
+    {
+        "code": "ENGN 1120",
+        "title": "Reaction Kinetics and Reactor Design",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17860"
+    },
+    {
+        "code": "ENGN 1140",
+        "title": "Chemical Process Design",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "25485"
+    },
+    {
+        "code": "ENGN 1150",
+        "title": "Environmental Engineering Design",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "25486"
+    },
+    {
+        "code": "ENGN 1210",
+        "title": "Biomechanics",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "25487"
+    },
+    {
+        "code": "ENGN 1220",
+        "title": "Neuroengineering",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "25488"
+    },
+    {
+        "code": "ENGN 1230",
+        "title": "Instrumentation Design",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17063"
+    },
+    {
+        "code": "ENGN 1300",
+        "title": "Structural Analysis",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26245"
+    },
+    {
+        "code": "ENGN 1340",
+        "title": "Water Supply and Treatment Systems - Technology and Sustainability",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "25490"
+    },
+    {
+        "code": "ENGN 1350",
+        "title": "Art Fluid Engineering",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "25491"
+    },
+    {
+        "code": "ENGN 1370",
+        "title": "Advanced Engineering Mechanics",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "25492"
+    },
+    {
+        "code": "ENGN 1410",
+        "title": "Physical Chemistry of Solids",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17066"
+    },
+    {
+        "code": "ENGN 1420",
+        "title": "Kinetics Processes in Materials Science and Engineering",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "25493"
+    },
+    {
+        "code": "ENGN 1440",
+        "title": "Mechanical Properties of Materials",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "25494"
+    },
+    {
+        "code": "ENGN 1450",
+        "title": "Properties and Processing of Electronic Materials",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26265"
+    },
+    {
+        "code": "ENGN 1475",
+        "title": "Soft Materials",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17930"
+    },
+    {
+        "code": "ENGN 1490",
+        "title": "Biomaterials",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17067"
+    },
+    {
+        "code": "ENGN 1510",
+        "title": "Nanoengineering and Nanomedicine",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17068"
+    },
+    {
+        "code": "ENGN 1520",
+        "title": "Cardiovascular Engineering",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "25495"
+    },
+    {
+        "code": "ENGN 1550",
+        "title": "Recent Advances in Biomedical Engineering",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "25939"
+    },
+    {
+        "code": "ENGN 1560",
+        "title": "Applications in Microwave Communications",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17111"
+    },
+    {
+        "code": "ENGN 1570",
+        "title": "Linear System Analysis",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17069"
+    },
+    {
+        "code": "ENGN 1580",
+        "title": "Communication Systems",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "25496"
+    },
+    {
+        "code": "ENGN 1590",
+        "title": "Semiconductor Devices",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "25497"
+    },
+    {
+        "code": "ENGN 1610",
+        "title": "Image Understanding",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17070"
+    },
+    {
+        "code": "ENGN 1620",
+        "title": "Analysis and Design of Electronic Circuits",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "25499"
+    },
+    {
+        "code": "ENGN 1630",
+        "title": "Digital Electronics Systems Design",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17072"
+    },
+    {
+        "code": "ENGN 1640",
+        "title": "Design of Computing Systems",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "25500"
+    },
+    {
+        "code": "ENGN 1650",
+        "title": "Embedded Microprocessor Design",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "18911"
+    },
+    {
+        "code": "ENGN 1690",
+        "title": "Photonics Devices and Sensors",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17074"
+    },
+    {
+        "code": "ENGN 1700",
+        "title": "High Reynolds Number Flows",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "25501"
+    },
+    {
+        "code": "ENGN 1710",
+        "title": "Principles of Heat Transfer",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "25503"
+    },
+    {
+        "code": "ENGN 1730",
+        "title": "Lasers and Nonlinear Optics",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26248"
+    },
+    {
+        "code": "ENGN 1735",
+        "title": "Vibration of Mechanical Systems",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17075"
+    },
+    {
+        "code": "ENGN 1740",
+        "title": "Computer Aided Visualization and Design",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "25505"
+    },
+    {
+        "code": "ENGN 1750",
+        "title": "Advanced Mechanics of Solids",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17077"
+    },
+    {
+        "code": "ENGN 1760",
+        "title": "Design of Space Systems",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "25506"
+    },
+    {
+        "code": "ENGN 1800",
+        "title": "Social Impact of Emerging Technologies: The Role of Scientists and Engineers",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17078"
+    },
+    {
+        "code": "ENGN 1820",
+        "title": "Future of Work",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26289"
+    },
+    {
+        "code": "ENGN 1860",
+        "title": "Advanced Fluid Mechanics",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17929"
+    },
+    {
+        "code": "ENGN 1930B",
+        "title": "Biomedical Optics",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "25938"
+    },
+    {
+        "code": "ENGN 1930L",
+        "title": "Biomedical Engineering Design and Innovation",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17057"
+    },
+    {
+        "code": "ENGN 1931D",
+        "title": "Design of Mechanical Assemblies",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17081"
+    },
+    {
+        "code": "ENGN 1931L",
+        "title": "Biomedical Engineering Design and Innovation II",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "25480"
+    },
+    {
+        "code": "ENGN 1931P",
+        "title": "Energy and the Environment",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17082"
+    },
+    {
+        "code": "ENGN 1931Q",
+        "title": "Entrepreneurial Management in Adversity",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17083"
+    },
+    {
+        "code": "ENGN 1931R",
+        "title": "The Chemistry of Environmental Pollution",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17926"
+    },
+    {
+        "code": "ENGN 1931T",
+        "title": "Entrepreneurship Practicum: Starting, Running, and Scaling Ventures",
+        "semesters": [
+            "Fall",
+            "Spring"
+        ],
+        "crn": "18071"
+    },
+    {
+        "code": "ENGN 1931W",
+        "title": "Selling & Sales Leadership in the Entrepreneurial Environment",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17084"
+    },
+    {
+        "code": "ENGN 1931Y",
+        "title": "Control Systems Engineering",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17085"
+    },
+    {
+        "code": "ENGN 1932D",
+        "title": "Qualitative Market Research for Entrepreneurs & Business Innovators",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "25511"
+    },
+    {
+        "code": "ENGN 1932R",
+        "title": "Leadership in Organizations",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "18059"
+    },
+    {
+        "code": "ENGN 1950",
+        "title": "Advanced Numerical Methods for Data, Simulation, and Optimization",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "18024"
+    },
+    {
+        "code": "ENGN 2010",
+        "title": "Mathematical Methods in Engineering and Physics I",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17054"
+    },
+    {
+        "code": "ENGN 2020",
+        "title": "Mathematical Methods in Engineering and Physics II",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "25513"
+    },
+    {
+        "code": "ENGN 2031",
+        "title": "Communication and Influence",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "19305"
+    },
+    {
+        "code": "ENGN 2050",
+        "title": "Finance and Business Strategy",
+        "semesters": [
+            "Summer"
+        ],
+        "crn": "60103"
+    },
+    {
+        "code": "ENGN 2110",
+        "title": "Business Engineering Fundamentals I",
+        "semesters": [
+            "Summer"
+        ],
+        "crn": "60080"
+    },
+    {
+        "code": "ENGN 2120",
+        "title": "Business Engineering Fundamentals II",
+        "semesters": [
+            "Summer"
+        ],
+        "crn": "60083"
+    },
+    {
+        "code": "ENGN 2150",
+        "title": "Technology Entrepreneurship and Commercialization I",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "18411"
+    },
+    {
+        "code": "ENGN 2160",
+        "title": "Technology Entrepreneurship and Commercialization II",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "18415"
+    },
+    {
+        "code": "ENGN 2170",
+        "title": "Engineering Design: Measure and Make",
+        "semesters": [
+            "Summer"
+        ],
+        "crn": "60110"
+    },
+    {
+        "code": "ENGN 2171",
+        "title": "Iterating with Intention",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17611"
+    },
+    {
+        "code": "ENGN 2172",
+        "title": "Integrate and Implement",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "25936"
+    },
+    {
+        "code": "ENGN 2210",
+        "title": "Continuum Mechanics",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17089"
+    },
+    {
+        "code": "ENGN 2220",
+        "title": "Mechanics of Solids",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "25514"
+    },
+    {
+        "code": "ENGN 2260",
+        "title": "Stress Waves in Solids",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "18537"
+    },
+    {
+        "code": "ENGN 2350",
+        "title": "Data-Driven Design and Analysis of Structures and Materials",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "18743"
+    },
+    {
+        "code": "ENGN 2370B",
+        "title": "Topics in Solid and Structural Mechanics",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26247"
+    },
+    {
+        "code": "ENGN 2420",
+        "title": "Kinetic Processes and Mechanisms in Materials Science",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26264"
+    },
+    {
+        "code": "ENGN 2502",
+        "title": "3D Photography",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "18548"
+    },
+    {
+        "code": "ENGN 2520",
+        "title": "Pattern Recognition and Machine Learning",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "25519"
+    },
+    {
+        "code": "ENGN 2530",
+        "title": "Digital Signal Processing",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "25520"
+    },
+    {
+        "code": "ENGN 2560",
+        "title": "Computer Vision",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "25521"
+    },
+    {
+        "code": "ENGN 2590",
+        "title": "Semiconductor Devices",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "25498"
+    },
+    {
+        "code": "ENGN 2605",
+        "title": "Image Understanding",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17071"
+    },
+    {
+        "code": "ENGN 2625",
+        "title": "Optical Microscopy: Fundamentals and Applications",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "18252"
+    },
+    {
+        "code": "ENGN 2700",
+        "title": "Product:  From Idea to Launch",
+        "semesters": [
+            "Summer"
+        ],
+        "crn": "60104"
+    },
+    {
+        "code": "ENGN 2702",
+        "title": "Descriptive Analytics for Technology Leaders",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "19350"
+    },
+    {
+        "code": "ENGN 2703",
+        "title": "Entrepreneurial Thinking",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "19351"
+    },
+    {
+        "code": "ENGN 2730",
+        "title": "Chemical and Environmental Thermodynamics",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "18721"
+    },
+    {
+        "code": "ENGN 2735",
+        "title": "Vibration of Mechanical Systems",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17076"
+    },
+    {
+        "code": "ENGN 2770",
+        "title": "Atomistic Reaction Engineering",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17928"
+    },
+    {
+        "code": "ENGN 2800",
+        "title": "Critical Challenge Project",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "19355"
+    },
+    {
+        "code": "ENGN 2801",
+        "title": "Visual Storytelling",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "19353"
+    },
+    {
+        "code": "ENGN 2810",
+        "title": "Fluid Mechanics I",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17096"
+    },
+    {
+        "code": "ENGN 2820",
+        "title": "Fluid Mechanics II",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "25525"
+    },
+    {
+        "code": "ENGN 2830",
+        "title": "High Reynolds Number Flows",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "25502"
+    },
+    {
+        "code": "ENGN 2910G",
+        "title": "Topics in Translational Research and Technologies",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "25526"
+    },
+    {
+        "code": "ENGN 2910S",
+        "title": "Cancer Nanotechnology",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17689"
+    },
+    {
+        "code": "ENGN 2911P",
+        "title": "Fate and Transport of Environmental Contaminants",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "25527"
+    },
+    {
+        "code": "ENGN 2911R",
+        "title": "Analytical Modeling for Biomechanical and Biomedical Systems",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17686"
+    },
+    {
+        "code": "ENGN 2912B",
+        "title": "Scientific Programming in C++",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17098"
+    },
+    {
+        "code": "ENGN 2912R",
+        "title": "Implantable Devices",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "25937"
+    },
+    {
+        "code": "ENGN 2912U",
+        "title": "Coordinated Mobile Robotics",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17100"
+    },
+    {
+        "code": "ENGN 2920G",
+        "title": "Creating Economic and Social Value from Your Science or Engineering Research",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17102"
+    },
+    {
+        "code": "ENGN 2920H",
+        "title": "Materials and Interfaces for Energy Storage Devices",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "25531"
+    },
+    {
+        "code": "ENGN 2930",
+        "title": "Atomistic Modeling of Materials",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "25533"
+    },
+    {
+        "code": "ENGN 2960",
+        "title": "Experiential Learning in Industry (ELI)",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "18720"
+    },
+    {
+        "code": "ENGN 2970",
+        "title": "Preliminary Examination Preparation",
+        "semesters": [
+            "Fall",
+            "Spring"
+        ],
+        "crn": "16569"
+    },
+    {
+        "code": "ENGN 2990",
+        "title": "Thesis Preparation",
+        "semesters": [
+            "Fall",
+            "Spring"
+        ],
+        "crn": "16570"
+    }
+]

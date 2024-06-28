@@ -1,0 +1,50 @@
+[
+    {
+        "code": "TKSH 0100",
+        "title": "Introduction to Turkish Language and Culture I",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "16747"
+    },
+    {
+        "code": "TKSH 0200",
+        "title": "Introduction to Turkish",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "25568"
+    },
+    {
+        "code": "TKSH 0300",
+        "title": "Intermediate Turkish",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "16748"
+    },
+    {
+        "code": "TKSH 0400",
+        "title": "Intermediate Turkish II",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "25569"
+    },
+    {
+        "code": "TKSH 0720A",
+        "title": "Understanding Modern Turkey Through Film and Literature",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "16749"
+    },
+    {
+        "code": "TKSH 1100",
+        "title": "Introductory Ottoman Turkish I",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "16750"
+    }
+]

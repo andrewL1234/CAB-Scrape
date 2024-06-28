@@ -1,0 +1,90 @@
+[
+    {
+        "code": "MPA 2020",
+        "title": "Public Budgeting and Management",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "18391"
+    },
+    {
+        "code": "MPA 2040",
+        "title": "Statistics for Program Evaluation",
+        "semesters": [
+            "Summer"
+        ],
+        "crn": "60094"
+    },
+    {
+        "code": "MPA 2055",
+        "title": "The Politics of Policymaking in Comparative Perspective",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "18378"
+    },
+    {
+        "code": "MPA 2065",
+        "title": "Introduction to Data Science and Programming",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "18393"
+    },
+    {
+        "code": "MPA 2229",
+        "title": "Principles and Practices of Stakeholder Engagement",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "18234"
+    },
+    {
+        "code": "MPA 2445",
+        "title": "Policy Analysis and Problem Solving",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "18213"
+    },
+    {
+        "code": "MPA 2450",
+        "title": "Economics of Government Intervention",
+        "semesters": [
+            "Summer"
+        ],
+        "crn": "60095"
+    },
+    {
+        "code": "MPA 2455",
+        "title": "Statistics for Public Policy",
+        "semesters": [
+            "Summer"
+        ],
+        "crn": "60092"
+    },
+    {
+        "code": "MPA 2460",
+        "title": "Economics for Public Policy",
+        "semesters": [
+            "Summer"
+        ],
+        "crn": "60093"
+    },
+    {
+        "code": "MPA 2603",
+        "title": "Leading for Impact",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "18392"
+    },
+    {
+        "code": "MPA 2605",
+        "title": "Translating Evidence into Economic Policy",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "18225"
+    }
+]

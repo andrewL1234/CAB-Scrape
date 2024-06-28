@@ -1,0 +1,92 @@
+[
+    {
+        "code": "LING 0100",
+        "title": "Introduction to Linguistics",
+        "semesters": [
+            "Fall",
+            "Spring",
+            "Summer"
+        ],
+        "crn": "17604"
+    },
+    {
+        "code": "LING 0511",
+        "title": "Language and Gender",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "18852"
+    },
+    {
+        "code": "LING 0530",
+        "title": "Diversity in American Languages",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26726"
+    },
+    {
+        "code": "LING 1200",
+        "title": "Phonology",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "25881"
+    },
+    {
+        "code": "LING 1311",
+        "title": "Linguistic Variation and Universals",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17605"
+    },
+    {
+        "code": "LING 1410",
+        "title": "Lexical Semantics",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "25883"
+    },
+    {
+        "code": "LING 1512",
+        "title": "Language and Ethnicity",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "18967"
+    },
+    {
+        "code": "LING 1615",
+        "title": "Sociolinguistic Cognition",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "18759"
+    },
+    {
+        "code": "LING 1741",
+        "title": "Information Theory in Language",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17596"
+    },
+    {
+        "code": "LING 1870",
+        "title": "Linguistic Field Methods",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "25882"
+    },
+    {
+        "code": "LING XLIST",
+        "title": "Courses of Interest to Concentrators in Linguistics",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "19124"
+    }
+]

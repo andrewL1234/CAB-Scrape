@@ -1,0 +1,728 @@
+[
+    {
+        "code": "HIST 0150A",
+        "title": "History of Capitalism",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26185"
+    },
+    {
+        "code": "HIST 0150C",
+        "title": "Locked Up: A Global History of Prison and Captivity",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26229"
+    },
+    {
+        "code": "HIST 0150G",
+        "title": "History of Law: Great Trials",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17805"
+    },
+    {
+        "code": "HIST 0150L",
+        "title": "Ecological Imperialism",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17799"
+    },
+    {
+        "code": "HIST 0202",
+        "title": "African Experiences of Empire",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17960"
+    },
+    {
+        "code": "HIST 0203",
+        "title": "Modern Africa: From Empire to Nation-State",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26186"
+    },
+    {
+        "code": "HIST 0246",
+        "title": "The Ottoman Empire and the Modern Middle East",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17789"
+    },
+    {
+        "code": "HIST 0252",
+        "title": "The American Civil War",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17800"
+    },
+    {
+        "code": "HIST 0253",
+        "title": "Religion, Politics, and Culture in America, 1865 - Present",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17801"
+    },
+    {
+        "code": "HIST 0254",
+        "title": "Reconstruction and the Politics of Violence",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26233"
+    },
+    {
+        "code": "HIST 0285A",
+        "title": "Modern Genocide and Other Crimes against Humanity",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26230"
+    },
+    {
+        "code": "HIST 0537A",
+        "title": "Popular Culture in Latin America and the Caribbean",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26713"
+    },
+    {
+        "code": "HIST 0559C",
+        "title": "Archives and Activism",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "19167"
+    },
+    {
+        "code": "HIST 0580M",
+        "title": "The Age of Revolutions, 1760-1824",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26801"
+    },
+    {
+        "code": "HIST 0657A",
+        "title": "Early American Lives",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17811"
+    },
+    {
+        "code": "HIST 0658D",
+        "title": "Walden + Woodstock: The American Lives of Ralph Waldo Emerson and Bob Dylan",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26268"
+    },
+    {
+        "code": "HIST 0690D",
+        "title": "Bodies that Matter: Environmental Histories of Disability in the United States",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26302"
+    },
+    {
+        "code": "HIST 0931B",
+        "title": "An Introduction to Africana Studies (AFRI 0090).",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "18772"
+    },
+    {
+        "code": "HIST 0940M",
+        "title": "Catastrophic Japan (EAST 0141)",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "19217"
+    },
+    {
+        "code": "HIST 1032",
+        "title": "South Africa: Apartheid and After",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26139"
+    },
+    {
+        "code": "HIST 1101",
+        "title": "Chinese Political Thought from Confucius to Xi Jinping",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26191"
+    },
+    {
+        "code": "HIST 1120",
+        "title": "At China's Edges",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17807"
+    },
+    {
+        "code": "HIST 1149",
+        "title": "Imperial Japan",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17787"
+    },
+    {
+        "code": "HIST 1155",
+        "title": "Japan's Pacific War: 1937-1945",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26181"
+    },
+    {
+        "code": "HIST 1205",
+        "title": "The Long Fall of the Roman Empire",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "18208"
+    },
+    {
+        "code": "HIST 1210A",
+        "title": "The Viking Age",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26187"
+    },
+    {
+        "code": "HIST 1262M",
+        "title": "Truth on Trial: Justice in Italy, 1400-1800",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26231"
+    },
+    {
+        "code": "HIST 1266C",
+        "title": "English History, 1529-1660",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17808"
+    },
+    {
+        "code": "HIST 1266D",
+        "title": "British History, 1660-1800",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26188"
+    },
+    {
+        "code": "HIST 1267",
+        "title": "The Global British Empire, 1600-The Present",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26189"
+    },
+    {
+        "code": "HIST 1320",
+        "title": "Rebel Island: Cuba, 1492-Present",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17814"
+    },
+    {
+        "code": "HIST 1340",
+        "title": "History of the Andes from Incas to Evo Morales",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26803"
+    },
+    {
+        "code": "HIST 1381",
+        "title": "Latin American History and Film: Memory, Narrative and Nation",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26227"
+    },
+    {
+        "code": "HIST 1441",
+        "title": "'Neither of the East nor the West': The Ottoman Empire in Asian, African, and European History",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26253"
+    },
+    {
+        "code": "HIST 1457",
+        "title": "Understanding the Palestinians",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "18499"
+    },
+    {
+        "code": "HIST 1502",
+        "title": "The Early Republic United States",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17816"
+    },
+    {
+        "code": "HIST 1553",
+        "title": "Empires in America to 1890",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17810"
+    },
+    {
+        "code": "HIST 1554",
+        "title": "American Empire Since 1890",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26182"
+    },
+    {
+        "code": "HIST 1570",
+        "title": "American Legal and Constitutional History",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26184"
+    },
+    {
+        "code": "HIST 1820B",
+        "title": "Environmental History of East Asia",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26255"
+    },
+    {
+        "code": "HIST 1820C",
+        "title": "Sovereignty and Ecology: Law, Land, and Environmental Change",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17817"
+    },
+    {
+        "code": "HIST 1825F",
+        "title": "Nature, Knowledge, Power in Early Modern Europe",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17785"
+    },
+    {
+        "code": "HIST 1825H",
+        "title": "Science, Medicine and Technology in the 17th Century",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17784"
+    },
+    {
+        "code": "HIST 1825J",
+        "title": "History of Artificial Intelligence",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26254"
+    },
+    {
+        "code": "HIST 1830B",
+        "title": "Politics and the Psyche from Sigmund Freud to Donald Trump",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17815"
+    },
+    {
+        "code": "HIST 1901",
+        "title": "Conspiracy? A Possible History of U.S. Politics and Culture",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "19189"
+    },
+    {
+        "code": "HIST 1930S",
+        "title": "Roman History II: The Roman Empire and Its Impact (CLAS 1320)",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "18769"
+    },
+    {
+        "code": "HIST 1931F",
+        "title": "Mediterranean Culture Wars: Archaic Greek History, c. 1200 to 479 BC (CLAS 1210).",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "18774"
+    },
+    {
+        "code": "HIST 1931L",
+        "title": "Women, Gender and Feminism in Early Modern Italy (ITAL 1262)",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "18771"
+    },
+    {
+        "code": "HIST 1942A",
+        "title": "Taiwan's Geographies",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "18758"
+    },
+    {
+        "code": "HIST 1953S",
+        "title": "Costs of Resistance: History Through Film",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "19268"
+    },
+    {
+        "code": "HIST 1956R",
+        "title": "Antisemitism and Modern History",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26263"
+    },
+    {
+        "code": "HIST 1961F",
+        "title": "Women in Early Modern China",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26259"
+    },
+    {
+        "code": "HIST 1962F",
+        "title": "Assembling Chinese History",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26693"
+    },
+    {
+        "code": "HIST 1963Q",
+        "title": "Sex, Power, and God: A Medieval Perspective",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "18819"
+    },
+    {
+        "code": "HIST 1964I",
+        "title": "England Without a Monarchy: Regicide and Republic, 1649-1660",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17838"
+    },
+    {
+        "code": "HIST 1964L",
+        "title": "Slavery in the Early Modern World",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17852"
+    },
+    {
+        "code": "HIST 1965C",
+        "title": "Stalinism",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17840"
+    },
+    {
+        "code": "HIST 1965E",
+        "title": "Politics of the Intellectual in 20C Europe",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17841"
+    },
+    {
+        "code": "HIST 1968A",
+        "title": "Approaches to the Middle East",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17846"
+    },
+    {
+        "code": "HIST 1970F",
+        "title": "Early American Money",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26240"
+    },
+    {
+        "code": "HIST 1970G",
+        "title": "Captive Voices: Atlantic Slavery in the Digital Age",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26267"
+    },
+    {
+        "code": "HIST 1971D",
+        "title": "From Emancipation to Obama",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17836"
+    },
+    {
+        "code": "HIST 1973Q",
+        "title": "Enviromental Pressures of South Asia",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "18570"
+    },
+    {
+        "code": "HIST 1974E",
+        "title": "The Intellectual History of Imperialism",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17843"
+    },
+    {
+        "code": "HIST 1974P",
+        "title": "Modernity's Crisis: Jewish History from the French Revolution to the Election of Donald Trump",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26266"
+    },
+    {
+        "code": "HIST 1974U",
+        "title": "Race, Incarceration, and Freedom in the Americas",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "18962"
+    },
+    {
+        "code": "HIST 1976N",
+        "title": "Topics in the History of Economic Thought",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17844"
+    },
+    {
+        "code": "HIST 1976U",
+        "title": "Planning the Family",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "18494"
+    },
+    {
+        "code": "HIST 1977I",
+        "title": "Gender, Race, and Medicine in the Americas",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26258"
+    },
+    {
+        "code": "HIST 1980L",
+        "title": "Islam in America: A Global History (HMAN 1973N)",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26763"
+    },
+    {
+        "code": "HIST 1982D",
+        "title": "Africana Studies Junior Seminar (AFRI 1330).",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "18768"
+    },
+    {
+        "code": "HIST 1982E",
+        "title": "China\u2019s Environmental History: Sources and Themes (ENVS1820).",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "18773"
+    },
+    {
+        "code": "HIST 1992",
+        "title": "History Honors Workshop for Prospective Thesis Writers",
+        "semesters": [
+            "Fall",
+            "Spring"
+        ],
+        "crn": "17856"
+    },
+    {
+        "code": "HIST 1993",
+        "title": "History Honors Workshop for Thesis Writers, Part I",
+        "semesters": [
+            "Fall",
+            "Spring"
+        ],
+        "crn": "18190"
+    },
+    {
+        "code": "HIST 1994",
+        "title": "History Honors Workshop for Thesis Writers, Part II",
+        "semesters": [
+            "Fall",
+            "Spring"
+        ],
+        "crn": "18505"
+    },
+    {
+        "code": "HIST 2890",
+        "title": "Preliminary Examination Preparation",
+        "semesters": [
+            "Fall",
+            "Spring"
+        ],
+        "crn": "16587"
+    },
+    {
+        "code": "HIST 2920",
+        "title": "History Now",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17813"
+    },
+    {
+        "code": "HIST 2930",
+        "title": "The Roots of History",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26190"
+    },
+    {
+        "code": "HIST 2940",
+        "title": "Writing History",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "18209"
+    },
+    {
+        "code": "HIST 2950",
+        "title": "The Practice of History",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26271"
+    },
+    {
+        "code": "HIST 2960",
+        "title": "Prospectus Development Seminar",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26257"
+    },
+    {
+        "code": "HIST 2971W",
+        "title": "Readings in Environmental History",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17850"
+    },
+    {
+        "code": "HIST 2972A",
+        "title": "Histories of Modernity",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26262"
+    },
+    {
+        "code": "HIST 2972B",
+        "title": "Graduate Readings in African History",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26272"
+    },
+    {
+        "code": "HIST 2972C",
+        "title": "African American Women's History",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17842"
+    },
+    {
+        "code": "HIST 2972D",
+        "title": "Graduate Readings in Native American and Indigenous Histories: Decolonization and Methodologies",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26281"
+    },
+    {
+        "code": "HIST 2972E",
+        "title": "Readings in Oppression and Resistance",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17849"
+    },
+    {
+        "code": "HIST 2990",
+        "title": "Thesis Preparation",
+        "semesters": [
+            "Fall",
+            "Spring"
+        ],
+        "crn": "16588"
+    },
+    {
+        "code": "HIST 2991",
+        "title": "History Dissertation Writing Workshop",
+        "semesters": [
+            "Fall",
+            "Spring"
+        ],
+        "crn": "17855"
+    }
+]

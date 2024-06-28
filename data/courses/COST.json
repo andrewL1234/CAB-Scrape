@@ -1,0 +1,74 @@
+[
+    {
+        "code": "COST 0034",
+        "title": "Dharma: A History of Classical Indian Civilization",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26709"
+    },
+    {
+        "code": "COST 0067",
+        "title": "Divine Drugs: Psychedelics, Religion, and Spirituality",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "18789"
+    },
+    {
+        "code": "COST 0120",
+        "title": "The Classical Chinese Philosophy of Life",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17760"
+    },
+    {
+        "code": "COST 0525",
+        "title": "The History and Practice of Yoga in India and Beyond",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26707"
+    },
+    {
+        "code": "COST 0526",
+        "title": "This Whole World is OM: Mantras in Indian Religions",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "18792"
+    },
+    {
+        "code": "COST 0535",
+        "title": "Self Transformation and Transcendence in Later Daoist Contemplative Traditions",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17767"
+    },
+    {
+        "code": "COST 0565",
+        "title": "The Sound of One Hand: Zen in Asia and the West",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "18815"
+    },
+    {
+        "code": "COST 1082",
+        "title": "Me, Myself, and I: Exploring Senses of Self from a Multidisciplinary Perspective",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "18810"
+    },
+    {
+        "code": "COST 1950",
+        "title": "Senior Concentrators' Seminar",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26023"
+    }
+]

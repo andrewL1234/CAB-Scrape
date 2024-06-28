@@ -1,0 +1,148 @@
+[
+    {
+        "code": "FREN 0100",
+        "title": "Basic French",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "16700"
+    },
+    {
+        "code": "FREN 0300",
+        "title": "Intermediate French I",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "16705"
+    },
+    {
+        "code": "FREN 0400",
+        "title": "Intermediate French II",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "16707"
+    },
+    {
+        "code": "FREN 0500",
+        "title": "Writing and Speaking French I",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "16710"
+    },
+    {
+        "code": "FREN 0600",
+        "title": "Writing and Speaking French II",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "16713"
+    },
+    {
+        "code": "FREN 0720D",
+        "title": "Contes et identit\u00e9s francophones",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17923"
+    },
+    {
+        "code": "FREN 1020B",
+        "title": "History of Romance Languages",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "18787"
+    },
+    {
+        "code": "FREN 1040D",
+        "title": "Moli\u00e8re et son monde",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "16717"
+    },
+    {
+        "code": "FREN 1070N",
+        "title": "Romanci\u00e8res dramaturges",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "19285"
+    },
+    {
+        "code": "FREN 1130G",
+        "title": "Modernismes po\u00e9tiques",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17774"
+    },
+    {
+        "code": "FREN 1410T",
+        "title": "L'experience des refugies: deplacements, migrations",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17684"
+    },
+    {
+        "code": "FREN 1710J",
+        "title": "Geopolitics and Identity Divides in the Middle East",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "18061"
+    },
+    {
+        "code": "FREN 1710L",
+        "title": "Africa in Theory Philosophy, Anthropology, History Beyond the West",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17771"
+    },
+    {
+        "code": "FREN 2190M",
+        "title": "The Literary Theory of Barthes and Derrida",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "18379"
+    },
+    {
+        "code": "FREN 2600H",
+        "title": "Romanci\u00e8res dramaturges",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17772"
+    },
+    {
+        "code": "FREN 2610G",
+        "title": "Faces: From Masks to Deepfake (HMAN 2401Y).",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "18681"
+    },
+    {
+        "code": "FREN 2970",
+        "title": "Preliminary Examination Preparation",
+        "semesters": [
+            "Fall",
+            "Spring"
+        ],
+        "crn": "16572"
+    },
+    {
+        "code": "FREN 2990",
+        "title": "Thesis Preparation",
+        "semesters": [
+            "Fall",
+            "Spring"
+        ],
+        "crn": "16573"
+    }
+]

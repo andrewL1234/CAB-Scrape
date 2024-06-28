@@ -1,0 +1,90 @@
+[
+    {
+        "code": "CHIN 0100",
+        "title": "Basic Chinese",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "16924"
+    },
+    {
+        "code": "CHIN 0200",
+        "title": "Basic Chinese",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "25679"
+    },
+    {
+        "code": "CHIN 0300",
+        "title": "Intermediate Chinese",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "16929"
+    },
+    {
+        "code": "CHIN 0400",
+        "title": "Intermediate Chinese",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "25683"
+    },
+    {
+        "code": "CHIN 0450",
+        "title": "Advanced Chinese for Heritage Learners",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "25691"
+    },
+    {
+        "code": "CHIN 0500",
+        "title": "Advanced Modern Chinese I",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "16932"
+    },
+    {
+        "code": "CHIN 0600",
+        "title": "Advanced Modern Chinese I",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "25686"
+    },
+    {
+        "code": "CHIN 0700",
+        "title": "Advanced Modern Chinese II",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "16935"
+    },
+    {
+        "code": "CHIN 0800",
+        "title": "Advanced Modern Chinese II",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "25689"
+    },
+    {
+        "code": "CHIN 0913",
+        "title": "Life, Trends, and History of Modern China",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "19310"
+    },
+    {
+        "code": "CHIN 1010",
+        "title": "Stories from the Chinese Empire: Scholars, Demons and Swindlers",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "25642"
+    }
+]

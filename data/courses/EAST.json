@@ -1,0 +1,115 @@
+[
+    {
+        "code": "EAST 0140",
+        "title": "Childhood and Culture in Japan",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17232"
+    },
+    {
+        "code": "EAST 0141",
+        "title": "Catastrophic Japan",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "18975"
+    },
+    {
+        "code": "EAST 0304",
+        "title": "Words on Things: Literature and Material Culture in Early Modern China",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "25641"
+    },
+    {
+        "code": "EAST 0305",
+        "title": "China Modern: An Introduction to the Literature of Twentieth-Century China",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "25632"
+    },
+    {
+        "code": "EAST 0309",
+        "title": "Courtesans, Concubines, and Wives: Gender Relations in Imperial China",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26764"
+    },
+    {
+        "code": "EAST 0409",
+        "title": "Sinners and Seers in Japanese Literature",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26730"
+    },
+    {
+        "code": "EAST 0703",
+        "title": "Confucianism and Its Critics",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "19016"
+    },
+    {
+        "code": "EAST 1304",
+        "title": "Crafting Early Modern China: Handicraft, Witchcraft and Statecraft",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17223"
+    },
+    {
+        "code": "EAST 1501",
+        "title": "Korean Culture and Film",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "25631"
+    },
+    {
+        "code": "EAST 1505",
+        "title": "Two Koreas",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "18976"
+    },
+    {
+        "code": "EAST 1510",
+        "title": "Chinese: A History of the Language",
+        "semesters": [
+            "Fall",
+            "Spring"
+        ],
+        "crn": "17233"
+    },
+    {
+        "code": "EAST 1931",
+        "title": "Market Economy, Popular Culture, and Mass Media in Contemporary China",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "25629"
+    },
+    {
+        "code": "EAST 1941",
+        "title": "Translating Japanese: Short Fiction, Poetry, Film and Manga",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17224"
+    },
+    {
+        "code": "EAST 1942",
+        "title": "Queer Japan: Culture, History and Sexuality",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "25640"
+    }
+]

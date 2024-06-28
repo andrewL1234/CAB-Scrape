@@ -1,0 +1,510 @@
+[
+    {
+        "code": "TAPS 0030",
+        "title": "Introduction to Acting and Directing",
+        "semesters": [
+            "Fall",
+            "Spring"
+        ],
+        "crn": "10046"
+    },
+    {
+        "code": "TAPS 0100",
+        "title": "Playwriting I",
+        "semesters": [
+            "Fall",
+            "Spring"
+        ],
+        "crn": "10042"
+    },
+    {
+        "code": "TAPS 0200",
+        "title": "Playwriting II",
+        "semesters": [
+            "Fall",
+            "Spring"
+        ],
+        "crn": "10049"
+    },
+    {
+        "code": "TAPS 0220",
+        "title": "Persuasive Communication",
+        "semesters": [
+            "Fall",
+            "Spring"
+        ],
+        "crn": "10001"
+    },
+    {
+        "code": "TAPS 0230",
+        "title": "Acting",
+        "semesters": [
+            "Fall",
+            "Spring"
+        ],
+        "crn": "10034"
+    },
+    {
+        "code": "TAPS 0250",
+        "title": "Introduction to Technical Theatre and Production",
+        "semesters": [
+            "Fall",
+            "Spring"
+        ],
+        "crn": "10045"
+    },
+    {
+        "code": "TAPS 0260",
+        "title": "Stage Lighting",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "10051"
+    },
+    {
+        "code": "TAPS 0310",
+        "title": "Beginning Modern Dance",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "10039"
+    },
+    {
+        "code": "TAPS 0320",
+        "title": "Dance Composition",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "20029"
+    },
+    {
+        "code": "TAPS 0360",
+        "title": "Viewpoints Technique: The Moving Body in Relation to Time, Space, and Ensemble",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26863"
+    },
+    {
+        "code": "TAPS 0700",
+        "title": "Introduction to Theatre, Dance and Performance",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "20044"
+    },
+    {
+        "code": "TAPS 0800J",
+        "title": "Of Emotions Unbound: Feeling Middle Eastern Theatre and Performance",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "25874"
+    },
+    {
+        "code": "TAPS 0800N",
+        "title": "The Semiotics of the Broadway Musical",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17300"
+    },
+    {
+        "code": "TAPS 0930A",
+        "title": "The Actor's Instrument: Voice and Speech",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "20037"
+    },
+    {
+        "code": "TAPS 1000",
+        "title": "Intermediate Dance",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "20034"
+    },
+    {
+        "code": "TAPS 1006A",
+        "title": "Playing the Villain on Camera (ARTS 1006)",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "19409"
+    },
+    {
+        "code": "TAPS 1100",
+        "title": "Stage Management",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "10048"
+    },
+    {
+        "code": "TAPS 1230",
+        "title": "Global Theatre and Performance: Paleolithic to the Threshold of Modernity",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "10052"
+    },
+    {
+        "code": "TAPS 1240",
+        "title": "Performance Historiography and Theatre History",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "20042"
+    },
+    {
+        "code": "TAPS 1250",
+        "title": "Late Modern and Contemporary Theatre and Performance",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "20043"
+    },
+    {
+        "code": "TAPS 1251C",
+        "title": "Scenic Properties and the Props Artisan",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "20047"
+    },
+    {
+        "code": "TAPS 1251E",
+        "title": "Embodiment, Materiality and Cultural Production",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "25879"
+    },
+    {
+        "code": "TAPS 1280G",
+        "title": "Introduction to Theatrical Design",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "10041"
+    },
+    {
+        "code": "TAPS 1280K",
+        "title": "Mindfulness and Movement: Interoceptive Expressive Arts",
+        "semesters": [
+            "Fall",
+            "Spring"
+        ],
+        "crn": "10038"
+    },
+    {
+        "code": "TAPS 1280U",
+        "title": "Voice Over for the Actor",
+        "semesters": [
+            "Fall",
+            "Spring"
+        ],
+        "crn": "10036"
+    },
+    {
+        "code": "TAPS 1281A",
+        "title": "Director/Designer Collaborative Studio",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "20018"
+    },
+    {
+        "code": "TAPS 1281E",
+        "title": "Directing Theory and Practice",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17598"
+    },
+    {
+        "code": "TAPS 1281G",
+        "title": "Queer Dance",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "25983"
+    },
+    {
+        "code": "TAPS 1281H",
+        "title": "Collaborations in Performance: Theory and Practice Moving Together",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17229"
+    },
+    {
+        "code": "TAPS 1281O",
+        "title": "Acting Outside the Box: Race, Class, Gender and Sexuality in Performance",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "25887"
+    },
+    {
+        "code": "TAPS 1281X",
+        "title": "Costume Design",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "20041"
+    },
+    {
+        "code": "TAPS 1285",
+        "title": "Film Acting",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "10044"
+    },
+    {
+        "code": "TAPS 1320",
+        "title": "Choreography",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "18708"
+    },
+    {
+        "code": "TAPS 1337",
+        "title": "Introduction to FlexN Dance & Movement",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "18707"
+    },
+    {
+        "code": "TAPS 1341",
+        "title": "Introduction to Ballet",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "20030"
+    },
+    {
+        "code": "TAPS 1343",
+        "title": "Ballet III (Intermediate/Advanced Ballet)",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17228"
+    },
+    {
+        "code": "TAPS 1344",
+        "title": "Advanced Ballet with Repertory",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "20031"
+    },
+    {
+        "code": "TAPS 1348",
+        "title": "Contemporary Dance Studio Project 1",
+        "semesters": [
+            "Fall",
+            "Spring"
+        ],
+        "crn": "10040"
+    },
+    {
+        "code": "TAPS 1500H",
+        "title": "Advanced Playwriting",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "20046"
+    },
+    {
+        "code": "TAPS 1500P",
+        "title": "Asian American Theater Making",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "20048"
+    },
+    {
+        "code": "TAPS 1500Q",
+        "title": "Black Expressive Cultures",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "18539"
+    },
+    {
+        "code": "TAPS 1500R",
+        "title": "Auditioning for the Camera",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17162"
+    },
+    {
+        "code": "TAPS 1751",
+        "title": "Choreodaemonics",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26610"
+    },
+    {
+        "code": "TAPS 2100",
+        "title": "Seminar in Performance Studies and Theatrical Theory",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17599"
+    },
+    {
+        "code": "TAPS 2200T",
+        "title": "Who Else: mimesis, performance, psyche",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26495"
+    },
+    {
+        "code": "TAPS 2300",
+        "title": "Pedagogy Seminar",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "20045"
+    },
+    {
+        "code": "TAPS 2310",
+        "title": "Graduate Playwriting",
+        "semesters": [
+            "Fall",
+            "Spring"
+        ],
+        "crn": "10031"
+    },
+    {
+        "code": "TAPS 2605",
+        "title": "Fundamentals of Acting: Shakespeare and Classical Verse",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "10057"
+    },
+    {
+        "code": "TAPS 2615",
+        "title": "Acting Technique III: Poetic Expression",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "10058"
+    },
+    {
+        "code": "TAPS 2625",
+        "title": "Playwriting Dramaturgy Practicum",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "10060"
+    },
+    {
+        "code": "TAPS 2635",
+        "title": "Directing III: The Director's Vision",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "10059"
+    },
+    {
+        "code": "TAPS 2655",
+        "title": "Advanced Acting: Shakespeare and Classical Verse",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "20010"
+    },
+    {
+        "code": "TAPS 2665",
+        "title": "Acting Technique IV: Creativity and Virtuosity",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "20011"
+    },
+    {
+        "code": "TAPS 2675",
+        "title": "Advanced Playwriting",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "20013"
+    },
+    {
+        "code": "TAPS 2685",
+        "title": "Directing IV: Special Topics",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "20012"
+    },
+    {
+        "code": "TAPS 2705",
+        "title": "Third Year Practicum: The Actor as Creator",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "10062"
+    },
+    {
+        "code": "TAPS 2715",
+        "title": "Professional Development and Performance",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "10063"
+    },
+    {
+        "code": "TAPS 2755",
+        "title": "Third Year Practicum: The Actor as Total Theatre Artist",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "20015"
+    },
+    {
+        "code": "TAPS 2765",
+        "title": "Professional Development and Performance - Spring",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "20016"
+    },
+    {
+        "code": "TAPS 2775",
+        "title": "Directing Seminar",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17602"
+    },
+    {
+        "code": "TAPS 2970",
+        "title": "Comprehensive Examination Preparation",
+        "semesters": [
+            "Fall",
+            "Spring"
+        ],
+        "crn": "16637"
+    },
+    {
+        "code": "TAPS 2990",
+        "title": "Thesis Preparation",
+        "semesters": [
+            "Fall",
+            "Spring"
+        ],
+        "crn": "16638"
+    }
+]

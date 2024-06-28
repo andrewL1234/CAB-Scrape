@@ -1,0 +1,406 @@
+[
+    {
+        "code": "PHIL 0010",
+        "title": "The Place of Persons",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17167"
+    },
+    {
+        "code": "PHIL 0021",
+        "title": "Living the Sage Life: A History of Chinese Ethics",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "18705"
+    },
+    {
+        "code": "PHIL 0024",
+        "title": "Philosophy of AI",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26706"
+    },
+    {
+        "code": "PHIL 0025",
+        "title": "Capitalism versus Socialism",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26704"
+    },
+    {
+        "code": "PHIL 0061",
+        "title": "Ethical Themes in the Contemporary American Short Story",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "18790"
+    },
+    {
+        "code": "PHIL 0090A",
+        "title": "Food and Philosophy",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "25575"
+    },
+    {
+        "code": "PHIL 0093",
+        "title": "The Philosophy of Health, Illness, and Disability",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26933"
+    },
+    {
+        "code": "PHIL 0101",
+        "title": "Critical Reasoning",
+        "semesters": [
+            "Summer"
+        ],
+        "crn": "60042"
+    },
+    {
+        "code": "PHIL 0110",
+        "title": "Ancient Greek Philosophy",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17171"
+    },
+    {
+        "code": "PHIL 0200H",
+        "title": "Contemporary Ethical Issues",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17172"
+    },
+    {
+        "code": "PHIL 0210",
+        "title": "Early Modern Philosophy",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "25576"
+    },
+    {
+        "code": "PHIL 0295",
+        "title": "Logic",
+        "semesters": [
+            "Summer"
+        ],
+        "crn": "60100"
+    },
+    {
+        "code": "PHIL 0352",
+        "title": "Introduction to 19th Century Philosophy",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26399"
+    },
+    {
+        "code": "PHIL 0555",
+        "title": "Choice, Commerce, and Conflict: An Introduction to PPE",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "25578"
+    },
+    {
+        "code": "PHIL 0560",
+        "title": "Political Philosophy",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17170"
+    },
+    {
+        "code": "PHIL 0640",
+        "title": "Logic",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17169"
+    },
+    {
+        "code": "PHIL 0990F",
+        "title": "Perception",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17176"
+    },
+    {
+        "code": "PHIL 0990V",
+        "title": "Current Questions About Rational Belief",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17175"
+    },
+    {
+        "code": "PHIL 0992A",
+        "title": "Puzzles of Rationality",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26932"
+    },
+    {
+        "code": "PHIL 1005",
+        "title": "Punishment and Justification",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "19316"
+    },
+    {
+        "code": "PHIL 1012",
+        "title": "Climate Ethics",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "25587"
+    },
+    {
+        "code": "PHIL 1135",
+        "title": "First Philosophy in Aristotle (Metaphysics)",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "19370"
+    },
+    {
+        "code": "PHIL 1155",
+        "title": "Hellenistic Ethics",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17414"
+    },
+    {
+        "code": "PHIL 1220",
+        "title": "17th Century Continental Rationalism",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "25585"
+    },
+    {
+        "code": "PHIL 1231",
+        "title": "British Empiricists",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17308"
+    },
+    {
+        "code": "PHIL 1240",
+        "title": "Kant's Moral Philosophy",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17180"
+    },
+    {
+        "code": "PHIL 1430",
+        "title": "Moral Theories",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "25586"
+    },
+    {
+        "code": "PHIL 1440",
+        "title": "The Nature of Morality",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "25588"
+    },
+    {
+        "code": "PHIL 1475",
+        "title": "Fiction as a Vehicle for Considering Ethical Issues in Education",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26879"
+    },
+    {
+        "code": "PHIL 1485",
+        "title": "The Quantified Self",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "19165"
+    },
+    {
+        "code": "PHIL 1501",
+        "title": "Well-Being",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26626"
+    },
+    {
+        "code": "PHIL 1593",
+        "title": "Seminar on Bioethics Through Fiction: Disability, Illness, and Death",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26952"
+    },
+    {
+        "code": "PHIL 1655",
+        "title": "Philosophical Logic",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "25580"
+    },
+    {
+        "code": "PHIL 1735",
+        "title": "Metaphysics",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "25584"
+    },
+    {
+        "code": "PHIL 1770",
+        "title": "Philosophy of Mind",
+        "semesters": [
+            "Summer"
+        ],
+        "crn": "60105"
+    },
+    {
+        "code": "PHIL 1775",
+        "title": "Philosophy of Quantum Mechanics",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "25581"
+    },
+    {
+        "code": "PHIL 1850",
+        "title": "Philosophy of Language",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17177"
+    },
+    {
+        "code": "PHIL 2000",
+        "title": "Graduate Proseminar",
+        "semesters": [
+            "Fall",
+            "Spring"
+        ],
+        "crn": "17182"
+    },
+    {
+        "code": "PHIL 2010",
+        "title": "Third Year Workshop",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "25591"
+    },
+    {
+        "code": "PHIL 2020",
+        "title": "Dissertation Workshop",
+        "semesters": [
+            "Fall",
+            "Spring"
+        ],
+        "crn": "17183"
+    },
+    {
+        "code": "PHIL 2061",
+        "title": "Intentionality: Beliefs, Concepts, and Linguistic Meanings",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "25767"
+    },
+    {
+        "code": "PHIL 2106",
+        "title": "Plato on Pleasure and the Good Life",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26582"
+    },
+    {
+        "code": "PHIL 2140K",
+        "title": "Rationality",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26116"
+    },
+    {
+        "code": "PHIL 2141",
+        "title": "The Philosophy of Roderick M. Chisholm",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "19311"
+    },
+    {
+        "code": "PHIL 2150",
+        "title": "Expressivism",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17949"
+    },
+    {
+        "code": "PHIL 2152",
+        "title": "Agency",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17948"
+    },
+    {
+        "code": "PHIL 2515",
+        "title": "Group Agency",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17947"
+    },
+    {
+        "code": "PHIL 2970",
+        "title": "Preliminary Examination Preparation",
+        "semesters": [
+            "Fall",
+            "Spring"
+        ],
+        "crn": "16609"
+    },
+    {
+        "code": "PHIL 2990",
+        "title": "Thesis Preparation",
+        "semesters": [
+            "Fall",
+            "Spring"
+        ],
+        "crn": "16610"
+    },
+    {
+        "code": "PHIL XLIST",
+        "title": "Courses of Interest to Philosophy Concentrators",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "19195"
+    }
+]

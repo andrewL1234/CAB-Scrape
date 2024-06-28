@@ -1,0 +1,52 @@
+[
+    {
+        "code": "EGYT 1310",
+        "title": "Introduction to Classical Hieroglyphic Egyptian Writing and Language (Middle Egyptian I)",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "10076"
+    },
+    {
+        "code": "EGYT 1435",
+        "title": "At the Crossroads of Three Continents: Ancient Egypt\u2019s History from the Collapse to Cleopatra",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "19327"
+    },
+    {
+        "code": "EGYT 2300",
+        "title": "Readings in Ancient Egyptian",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "18269"
+    },
+    {
+        "code": "EGYT 2510",
+        "title": "Social Life in Ancient Egypt",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26773"
+    },
+    {
+        "code": "EGYT 2970",
+        "title": "Preliminary Examination Preparation",
+        "semesters": [
+            "Fall",
+            "Spring"
+        ],
+        "crn": "16563"
+    },
+    {
+        "code": "EGYT 2990",
+        "title": "Thesis Preparation",
+        "semesters": [
+            "Fall",
+            "Spring"
+        ],
+        "crn": "16564"
+    }
+]

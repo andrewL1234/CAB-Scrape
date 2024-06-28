@@ -1,0 +1,373 @@
+[
+    {
+        "code": "MATH 0050",
+        "title": "Analytic Geometry and Calculus",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "10139"
+    },
+    {
+        "code": "MATH 0060",
+        "title": "Analytic Geometry and Calculus",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "20112"
+    },
+    {
+        "code": "MATH 0081",
+        "title": "Math Teaching Fellows Program",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "18918"
+    },
+    {
+        "code": "MATH 0090",
+        "title": "Single Variable Calculus, Part I",
+        "semesters": [
+            "Fall",
+            "Spring"
+        ],
+        "crn": "10140"
+    },
+    {
+        "code": "MATH 0100",
+        "title": "Single Variable Calculus, Part II",
+        "semesters": [
+            "Fall",
+            "Spring"
+        ],
+        "crn": "10145"
+    },
+    {
+        "code": "MATH 0180",
+        "title": "Multivariable Calculus",
+        "semesters": [
+            "Fall",
+            "Spring"
+        ],
+        "crn": "10146"
+    },
+    {
+        "code": "MATH 0190",
+        "title": "Single Variable Calculus, Part II (Physics/Engineering)",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "10149"
+    },
+    {
+        "code": "MATH 0200",
+        "title": "Multivariable Calculus (Physics/Engineering)",
+        "semesters": [
+            "Fall",
+            "Spring"
+        ],
+        "crn": "10151"
+    },
+    {
+        "code": "MATH 0350",
+        "title": "Multivariable Calculus With Theory",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "10154"
+    },
+    {
+        "code": "MATH 0420",
+        "title": "Introduction to Number Theory",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "18731"
+    },
+    {
+        "code": "MATH 0520",
+        "title": "Linear Algebra",
+        "semesters": [
+            "Fall",
+            "Spring",
+            "Summer"
+        ],
+        "crn": "10155"
+    },
+    {
+        "code": "MATH 0540",
+        "title": "Linear Algebra With Theory",
+        "semesters": [
+            "Fall",
+            "Spring"
+        ],
+        "crn": "10160"
+    },
+    {
+        "code": "MATH 0750",
+        "title": "Introduction to Higher Mathematics",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "10161"
+    },
+    {
+        "code": "MATH 1000",
+        "title": "The Art of Writing Mathematics",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26198"
+    },
+    {
+        "code": "MATH 1010",
+        "title": "Analysis: Functions of One Variable",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "25774"
+    },
+    {
+        "code": "MATH 1030",
+        "title": "Graph Theory",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26199"
+    },
+    {
+        "code": "MATH 1040",
+        "title": "Fundamental Problems of Geometry",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "20135"
+    },
+    {
+        "code": "MATH 1060",
+        "title": "Differential Geometry",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "10162"
+    },
+    {
+        "code": "MATH 1080",
+        "title": "Cryptography",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26200"
+    },
+    {
+        "code": "MATH 1110",
+        "title": "Ordinary Differential Equations",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "10163"
+    },
+    {
+        "code": "MATH 1120",
+        "title": "Partial Differential Equations",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "20136"
+    },
+    {
+        "code": "MATH 1210",
+        "title": "Probability",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17664"
+    },
+    {
+        "code": "MATH 1460",
+        "title": "Complex Analysis",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17663"
+    },
+    {
+        "code": "MATH 1530",
+        "title": "Abstract Algebra",
+        "semesters": [
+            "Fall",
+            "Spring"
+        ],
+        "crn": "10167"
+    },
+    {
+        "code": "MATH 1540",
+        "title": "Topics in Abstract Algebra",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17338"
+    },
+    {
+        "code": "MATH 1560",
+        "title": "Number Theory",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26649"
+    },
+    {
+        "code": "MATH 1630",
+        "title": "Real Analysis I",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17662"
+    },
+    {
+        "code": "MATH 1640",
+        "title": "Real Analysis II",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26120"
+    },
+    {
+        "code": "MATH 1710",
+        "title": "Topology",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26206"
+    },
+    {
+        "code": "MATH 2010",
+        "title": "Differential Geometry",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "20143"
+    },
+    {
+        "code": "MATH 2050",
+        "title": "Algebraic Geometry",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "25776"
+    },
+    {
+        "code": "MATH 2110",
+        "title": "Introduction to Manifolds",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "10171"
+    },
+    {
+        "code": "MATH 2250",
+        "title": "Complex Function Theory",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "10182"
+    },
+    {
+        "code": "MATH 2260",
+        "title": "Complex Function Theory",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "20146"
+    },
+    {
+        "code": "MATH 2370",
+        "title": "Partial Differential Equations",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "10179"
+    },
+    {
+        "code": "MATH 2380",
+        "title": "Partial Differential Equations",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "20151"
+    },
+    {
+        "code": "MATH 2410",
+        "title": "Topology",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "10174"
+    },
+    {
+        "code": "MATH 2420",
+        "title": "Algebraic Topology",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "20147"
+    },
+    {
+        "code": "MATH 2510",
+        "title": "Algebra",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "10175"
+    },
+    {
+        "code": "MATH 2520",
+        "title": "Algebra",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "20148"
+    },
+    {
+        "code": "MATH 2530",
+        "title": "Number Theory",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "10176"
+    },
+    {
+        "code": "MATH 2540",
+        "title": "Number Theory",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "20149"
+    },
+    {
+        "code": "MATH 2720E",
+        "title": "Advanced Topics in Mathematics",
+        "semesters": [
+            "Fall",
+            "Spring"
+        ],
+        "crn": "10177"
+    },
+    {
+        "code": "MATH 2970",
+        "title": "Preliminary Exam Preparation",
+        "semesters": [
+            "Fall",
+            "Spring"
+        ],
+        "crn": "16595"
+    },
+    {
+        "code": "MATH 2990",
+        "title": "Thesis Preparation",
+        "semesters": [
+            "Fall",
+            "Spring"
+        ],
+        "crn": "16596"
+    }
+]

@@ -1,0 +1,172 @@
+[
+    {
+        "code": "GRMN 0100",
+        "title": "Beginning German",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17237"
+    },
+    {
+        "code": "GRMN 0110",
+        "title": "Intensive Beginning German",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "25646"
+    },
+    {
+        "code": "GRMN 0200",
+        "title": "Beginning German",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "25649"
+    },
+    {
+        "code": "GRMN 0300",
+        "title": "Intermediate German I",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17240"
+    },
+    {
+        "code": "GRMN 0400",
+        "title": "Intermediate German II",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "25651"
+    },
+    {
+        "code": "GRMN 0500F",
+        "title": "Twentieth-Century German Culture",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17243"
+    },
+    {
+        "code": "GRMN 0600B",
+        "title": "Was ist Deutsch?",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "25653"
+    },
+    {
+        "code": "GRMN 1001",
+        "title": "German for Reading",
+        "semesters": [
+            "Summer"
+        ],
+        "crn": "60020"
+    },
+    {
+        "code": "GRMN 1321A",
+        "title": "Sadistic Reasoning: 'Kant with Sade'",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "25841"
+    },
+    {
+        "code": "GRMN 1321B",
+        "title": "Zeitungsmacher und Kalendermann: Matthias Claudius und Johann Peter Hebel",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17438"
+    },
+    {
+        "code": "GRMN 1321C",
+        "title": "Zur Frage des Besitzes",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "25840"
+    },
+    {
+        "code": "GRMN 1340M",
+        "title": "Kafka's Writing",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17283"
+    },
+    {
+        "code": "GRMN 1441N",
+        "title": "Bertolt Brecht, Peter Weiss, Alexander Kluge \u2013 Theater, Prosa, Film",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17437"
+    },
+    {
+        "code": "GRMN 1441O",
+        "title": "Childhood Imaginaries: Romanticism, Psychoanalysis, and Beyond",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26590"
+    },
+    {
+        "code": "GRMN 1441P",
+        "title": "What Are We Looking At?  Paradoxes of the Visual",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "19010"
+    },
+    {
+        "code": "GRMN 2662S",
+        "title": "Dichter\u2013\u2013Troubadour\u2013\u2013Poet : Gedicht\u2013\u2013Tropus\u2013\u2013Poem",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17440"
+    },
+    {
+        "code": "GRMN 2662T",
+        "title": "The Darkness of the Lived Moment",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "25842"
+    },
+    {
+        "code": "GRMN 2662U",
+        "title": "Witnessing Totalitarianism: Fascism, Communism, and their Aftermath in German-language Literatures",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26394"
+    },
+    {
+        "code": "GRMN 2662V",
+        "title": "Under Analysis: On the History of Truth and the Subject of Science",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17775"
+    },
+    {
+        "code": "GRMN 2970",
+        "title": "Preliminary Examination Preparation",
+        "semesters": [
+            "Fall",
+            "Spring"
+        ],
+        "crn": "16578"
+    },
+    {
+        "code": "GRMN 2990",
+        "title": "Thesis Preparation",
+        "semesters": [
+            "Fall",
+            "Spring"
+        ],
+        "crn": "16579"
+    }
+]

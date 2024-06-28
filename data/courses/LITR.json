@@ -1,0 +1,303 @@
+[
+    {
+        "code": "LITR 0100A",
+        "title": "Introduction to Fiction",
+        "semesters": [
+            "Fall",
+            "Spring"
+        ],
+        "crn": "17244"
+    },
+    {
+        "code": "LITR 0100B",
+        "title": "Introduction to Poetry",
+        "semesters": [
+            "Fall",
+            "Spring"
+        ],
+        "crn": "17245"
+    },
+    {
+        "code": "LITR 0110A",
+        "title": "Fiction I",
+        "semesters": [
+            "Fall",
+            "Spring",
+            "Summer"
+        ],
+        "crn": "17262"
+    },
+    {
+        "code": "LITR 0110B",
+        "title": "Poetry I",
+        "semesters": [
+            "Fall",
+            "Spring"
+        ],
+        "crn": "17266"
+    },
+    {
+        "code": "LITR 0110E",
+        "title": "Screenwriting I",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "25664"
+    },
+    {
+        "code": "LITR 0110H",
+        "title": "Digital & Cross-Disciplinary Language Arts 1",
+        "semesters": [
+            "Fall",
+            "Spring"
+        ],
+        "crn": "17269"
+    },
+    {
+        "code": "LITR 0210A",
+        "title": "Fiction Writing II",
+        "semesters": [
+            "Fall",
+            "Spring"
+        ],
+        "crn": "17250"
+    },
+    {
+        "code": "LITR 0210B",
+        "title": "Poetry Writing II",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17256"
+    },
+    {
+        "code": "LITR 0310O",
+        "title": "Narrative Nonfiction",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17261"
+    },
+    {
+        "code": "LITR 0311Y",
+        "title": "Experiments in Storytelling: Essays, Art, and Games",
+        "semesters": [
+            "Summer"
+        ],
+        "crn": "60040"
+    },
+    {
+        "code": "LITR 0710",
+        "title": "Writers on Writing Seminar",
+        "semesters": [
+            "Fall",
+            "Spring"
+        ],
+        "crn": "17254"
+    },
+    {
+        "code": "LITR 1010A",
+        "title": "Advanced Fiction",
+        "semesters": [
+            "Fall",
+            "Spring"
+        ],
+        "crn": "17249"
+    },
+    {
+        "code": "LITR 1010B",
+        "title": "Advanced Poetry",
+        "semesters": [
+            "Fall",
+            "Spring"
+        ],
+        "crn": "17520"
+    },
+    {
+        "code": "LITR 1010E",
+        "title": "Advanced Screenwriting",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17260"
+    },
+    {
+        "code": "LITR 1010H",
+        "title": "Advanced Digital & Cross-Disciplinary Language Arts",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17257"
+    },
+    {
+        "code": "LITR 1011F",
+        "title": "Literary Translation Workshop (COLT 1710C).",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "18661"
+    },
+    {
+        "code": "LITR 1110N",
+        "title": "Workshop for Potential Literature",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17253"
+    },
+    {
+        "code": "LITR 1110U",
+        "title": "Script to Screen: Fundamentals of Filmmaking",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17259"
+    },
+    {
+        "code": "LITR 1110V",
+        "title": "Script to Screen: Scene Work",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "25665"
+    },
+    {
+        "code": "LITR 1151I",
+        "title": "Remaster + Remix",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "25676"
+    },
+    {
+        "code": "LITR 1151Q",
+        "title": "Great Adventure",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17272"
+    },
+    {
+        "code": "LITR 1151X",
+        "title": "Interdisciplinary Arts Workshop: Translation of Concept",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "25696"
+    },
+    {
+        "code": "LITR 1152T",
+        "title": "Memory\u2019s Imagination",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17288"
+    },
+    {
+        "code": "LITR 1152X",
+        "title": "Writing with the Family Archives",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "19396"
+    },
+    {
+        "code": "LITR 1152Z",
+        "title": "Creative Process Workshop",
+        "semesters": [
+            "Summer"
+        ],
+        "crn": "60041"
+    },
+    {
+        "code": "LITR 1153A",
+        "title": "The Illiberal Imagination:  Fictions of Disinformation, Conspiracy, and Control",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "18640"
+    },
+    {
+        "code": "LITR 1153B",
+        "title": "Ambient Grief: Writing the Alteration",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26951"
+    },
+    {
+        "code": "LITR 1200",
+        "title": "Writers on Writing",
+        "semesters": [
+            "Fall",
+            "Spring"
+        ],
+        "crn": "17255"
+    },
+    {
+        "code": "LITR 1230Y",
+        "title": "Structuring (and De-Structuring) Novels: Special Topics Literature Seminar",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17519"
+    },
+    {
+        "code": "LITR 1231E",
+        "title": "Rereading Writing",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17258"
+    },
+    {
+        "code": "LITR 1231J",
+        "title": "Histories",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17287"
+    },
+    {
+        "code": "LITR 2010A",
+        "title": "Graduate Fiction",
+        "semesters": [
+            "Fall",
+            "Spring"
+        ],
+        "crn": "17246"
+    },
+    {
+        "code": "LITR 2010B",
+        "title": "Graduate Poetry",
+        "semesters": [
+            "Fall",
+            "Spring"
+        ],
+        "crn": "17247"
+    },
+    {
+        "code": "LITR 2402C",
+        "title": "Reading the Large Language Models: Artificial Intelligence, Language, and Literary Art (HMAN 2402C).",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26414"
+    },
+    {
+        "code": "LITR 2700",
+        "title": "Pedagogy Seminar",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "25655"
+    },
+    {
+        "code": "LITR 2710",
+        "title": "Literary Arts Pedagogy in Practice",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17248"
+    }
+]

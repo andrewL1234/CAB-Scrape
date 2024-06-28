@@ -1,0 +1,503 @@
+[
+    {
+        "code": "SOC 0010",
+        "title": "Social Forces: An Introduction to Sociology",
+        "semesters": [
+            "Fall",
+            "Spring"
+        ],
+        "crn": "17667"
+    },
+    {
+        "code": "SOC 0230",
+        "title": "Sex, Gender, and Society",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17966"
+    },
+    {
+        "code": "SOC 0300",
+        "title": "Organizations and Society",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26054"
+    },
+    {
+        "code": "SOC 0300D",
+        "title": "Who Am I?",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "19359"
+    },
+    {
+        "code": "SOC 0300I",
+        "title": "From Macro to Micro: Experiencing Education (In)equality in and beyond Schools",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26958"
+    },
+    {
+        "code": "SOC 0300K",
+        "title": "Inequalities and Health",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17902"
+    },
+    {
+        "code": "SOC 0300R",
+        "title": "The Sociology of Race",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26059"
+    },
+    {
+        "code": "SOC 0300X",
+        "title": "The Value of Nature and the Nature of Value",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26692"
+    },
+    {
+        "code": "SOC 0300Y",
+        "title": "Gender at Work: The Past and Future of Gender Inequality",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26324"
+    },
+    {
+        "code": "SOC 0310",
+        "title": "Theory and Practice of Engaged Scholarship",
+        "semesters": [
+            "Fall",
+            "Spring"
+        ],
+        "crn": "17903"
+    },
+    {
+        "code": "SOC 0315",
+        "title": "International Migration",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "19276"
+    },
+    {
+        "code": "SOC 1010",
+        "title": "Classical Sociological Theory",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17898"
+    },
+    {
+        "code": "SOC 1020",
+        "title": "Methods of Social Research",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26055"
+    },
+    {
+        "code": "SOC 1100",
+        "title": "Introductory Statistics for Social Research",
+        "semesters": [
+            "Fall",
+            "Spring"
+        ],
+        "crn": "17899"
+    },
+    {
+        "code": "SOC 1116",
+        "title": "Criminal Courts and the Law in an Era of Mass Incarceration",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26061"
+    },
+    {
+        "code": "SOC 1117",
+        "title": "Focus Groups for Market and Social Research",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17904"
+    },
+    {
+        "code": "SOC 1118",
+        "title": "Context Research for Innovation",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "18629"
+    },
+    {
+        "code": "SOC 1120",
+        "title": "Market and Social Surveys",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26062"
+    },
+    {
+        "code": "SOC 1270",
+        "title": "Race, Class, and Ethnicity in the Modern World",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26063"
+    },
+    {
+        "code": "SOC 1311",
+        "title": "Micro-Organizational Theory: Social Behavior in Organizations",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17900"
+    },
+    {
+        "code": "SOC 1315",
+        "title": "Macro-Organizational Theory: Organizations in Social Context",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26057"
+    },
+    {
+        "code": "SOC 1340",
+        "title": "Principles and Methods of Geographic Information Systems",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17905"
+    },
+    {
+        "code": "SOC 1450",
+        "title": "Unstable Times: Migration, Identity and Societal Integration",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17907"
+    },
+    {
+        "code": "SOC 1480",
+        "title": "What's Wrong with Empowerment:Critical perspectives on Development",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "18219"
+    },
+    {
+        "code": "SOC 1490",
+        "title": "Power, Knowledge and Justice in Global Social Change",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17908"
+    },
+    {
+        "code": "SOC 1870X",
+        "title": "Sociology of Health Research Seminar",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26800"
+    },
+    {
+        "code": "SOC 1871X",
+        "title": "Comparative Urban Political Economy",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17909"
+    },
+    {
+        "code": "SOC 1871Z",
+        "title": "Martial Arts, Culture, and Society",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17910"
+    },
+    {
+        "code": "SOC 1872O",
+        "title": "Critical Race Theory",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26067"
+    },
+    {
+        "code": "SOC 1872V",
+        "title": "Race and Wrongful Conviction in the United States",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "18224"
+    },
+    {
+        "code": "SOC 1873D",
+        "title": "Inequality of Infant Health",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26597"
+    },
+    {
+        "code": "SOC 1873G",
+        "title": "The Geography of Urban Inequality",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26068"
+    },
+    {
+        "code": "SOC 1874C",
+        "title": "Medical Sociology",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "19142"
+    },
+    {
+        "code": "SOC 1874D",
+        "title": "From Factory to Code",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26596"
+    },
+    {
+        "code": "SOC 1900",
+        "title": "Religion, Christianity, and Spirituality",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26288"
+    },
+    {
+        "code": "SOC 1950",
+        "title": "Senior Seminar",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26058"
+    },
+    {
+        "code": "SOC 2010",
+        "title": "Multivariate Statistical Methods I",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17911"
+    },
+    {
+        "code": "SOC 2020",
+        "title": "Multivariate Statistical Methods II",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26071"
+    },
+    {
+        "code": "SOC 2040",
+        "title": "Classical Sociological Theory",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17912"
+    },
+    {
+        "code": "SOC 2050",
+        "title": "Contemporary Sociology",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26127"
+    },
+    {
+        "code": "SOC 2070",
+        "title": "Text as Data for Social Science Research",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "18854"
+    },
+    {
+        "code": "SOC 2080",
+        "title": "Principles of Population",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "19143"
+    },
+    {
+        "code": "SOC 2110",
+        "title": "The Sociology of Gender and Sexualities",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26392"
+    },
+    {
+        "code": "SOC 2120",
+        "title": "Gender, Work, and Inequality",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26398"
+    },
+    {
+        "code": "SOC 2210",
+        "title": "Qualitative Methods",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17913"
+    },
+    {
+        "code": "SOC 2230",
+        "title": "Techniques of Demographic Analysis",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26284"
+    },
+    {
+        "code": "SOC 2260G",
+        "title": "The Souls of Sociology: W.E.B Du Bois and Critical Sociologies of Race",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17916"
+    },
+    {
+        "code": "SOC 2260T",
+        "title": "Cultural Theory and Methods",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26078"
+    },
+    {
+        "code": "SOC 2385",
+        "title": "Environmental Sociology",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17917"
+    },
+    {
+        "code": "SOC 2430",
+        "title": "Fields and Methods of Social Research",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26074"
+    },
+    {
+        "code": "SOC 2500",
+        "title": "Teaching Practicum in Sociology",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17920"
+    },
+    {
+        "code": "SOC 2510",
+        "title": "Teaching Practicum in Sociology",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26083"
+    },
+    {
+        "code": "SOC 2610",
+        "title": "Spatial Thinking in Social Science",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "18010"
+    },
+    {
+        "code": "SOC 2960C",
+        "title": "Urban Sociology",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26080"
+    },
+    {
+        "code": "SOC 2960F",
+        "title": "Global and Transnational Sociology",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26082"
+    },
+    {
+        "code": "SOC 2960G",
+        "title": "Spatial Data Analysis Techniques in the Social Sciences",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17918"
+    },
+    {
+        "code": "SOC 2961B",
+        "title": "Applications in Geographic Information Systems",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26081"
+    },
+    {
+        "code": "SOC 2961D",
+        "title": "Sociology of Power",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "18630"
+    },
+    {
+        "code": "SOC 2961E",
+        "title": "Sociology of Education",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17919"
+    },
+    {
+        "code": "SOC 2961M",
+        "title": "Computational Methods for Social Scientists",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26180"
+    },
+    {
+        "code": "SOC 2970",
+        "title": "Preliminary Examination Preparation",
+        "semesters": [
+            "Fall",
+            "Spring"
+        ],
+        "crn": "16634"
+    },
+    {
+        "code": "SOC 2990",
+        "title": "Dissertation Preparation",
+        "semesters": [
+            "Fall",
+            "Spring"
+        ],
+        "crn": "16635"
+    }
+]

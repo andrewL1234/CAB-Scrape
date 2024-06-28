@@ -1,0 +1,744 @@
+[
+    {
+        "code": "ENGL 0100A",
+        "title": "How To Read A Poem",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "25795"
+    },
+    {
+        "code": "ENGL 0100P",
+        "title": "Love Stories",
+        "semesters": [
+            "Summer"
+        ],
+        "crn": "60008"
+    },
+    {
+        "code": "ENGL 0100U",
+        "title": "Serial Fictions",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "25876"
+    },
+    {
+        "code": "ENGL 0100Y",
+        "title": "Do the Right Thing",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17235"
+    },
+    {
+        "code": "ENGL 0101E",
+        "title": "Home Away from Home",
+        "semesters": [
+            "Summer"
+        ],
+        "crn": "60007"
+    },
+    {
+        "code": "ENGL 0101F",
+        "title": "American Realism",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17165"
+    },
+    {
+        "code": "ENGL 0150S",
+        "title": "The Roaring Twenties",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "20100"
+    },
+    {
+        "code": "ENGL 0151G",
+        "title": "The Middle Ages Goes to the Movies",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26686"
+    },
+    {
+        "code": "ENGL 0151H",
+        "title": "Literature and the Sea",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26648"
+    },
+    {
+        "code": "ENGL 0151J",
+        "title": "Introduction to the Age of Dickens",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "25645"
+    },
+    {
+        "code": "ENGL 0202B",
+        "title": "What Monks Want: Asceticism and Austerity Across the Global Anglophone",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17776"
+    },
+    {
+        "code": "ENGL 0202C",
+        "title": "Experiments in Asian and Asian Diaspora Literature and Culture",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17432"
+    },
+    {
+        "code": "ENGL 0202D",
+        "title": "Poetic Justice: Literature on Colonialism",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17433"
+    },
+    {
+        "code": "ENGL 0202E",
+        "title": "Memory and the Literary Imagination: Conceptions of Remembering from Shakespeare to the Present",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26105"
+    },
+    {
+        "code": "ENGL 0202F",
+        "title": "We the People: American Literatures of Community",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "25799"
+    },
+    {
+        "code": "ENGL 0202G",
+        "title": "Literatures of Racial Capitalism",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26587"
+    },
+    {
+        "code": "ENGL 0300M",
+        "title": "Medieval Gender",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "10303"
+    },
+    {
+        "code": "ENGL 0310A",
+        "title": "Shakespeare",
+        "semesters": [
+            "Fall",
+            "Spring"
+        ],
+        "crn": "25565"
+    },
+    {
+        "code": "ENGL 0310Q",
+        "title": "Why Before 1700?  Literature before Literature",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "25430"
+    },
+    {
+        "code": "ENGL 0500P",
+        "title": "The Examined Self: Lives of the Soul",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "16812"
+    },
+    {
+        "code": "ENGL 0511D",
+        "title": "Austen, Eliot, James",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17234"
+    },
+    {
+        "code": "ENGL 0700E",
+        "title": "Postcolonial Literature",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "16917"
+    },
+    {
+        "code": "ENGL 0710V",
+        "title": "Death and Dying in Black Literature",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "25693"
+    },
+    {
+        "code": "ENGL 0710Z",
+        "title": "American Literature and the Constitution",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "18786"
+    },
+    {
+        "code": "ENGL 0800T",
+        "title": "Introduction to Black Literary Theory",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "16966"
+    },
+    {
+        "code": "ENGL 0800V",
+        "title": "Marxist Literary Theory",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "25443"
+    },
+    {
+        "code": "ENGL 0900",
+        "title": "Critical Reading and Writing I: The Academic Essay",
+        "semesters": [
+            "Fall",
+            "Spring"
+        ],
+        "crn": "10006"
+    },
+    {
+        "code": "ENGL 0930",
+        "title": "Introduction to Creative Nonfiction",
+        "semesters": [
+            "Fall",
+            "Spring",
+            "Summer"
+        ],
+        "crn": "10009"
+    },
+    {
+        "code": "ENGL 1030G",
+        "title": "Backstory",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "20101"
+    },
+    {
+        "code": "ENGL 1030H",
+        "title": "Black Popular Culture and Social Movements",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26652"
+    },
+    {
+        "code": "ENGL 1030J",
+        "title": "Editing Theory and Practice",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "16965"
+    },
+    {
+        "code": "ENGL 1050A",
+        "title": "Narrative",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "10124"
+    },
+    {
+        "code": "ENGL 1050B",
+        "title": "True Stories",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "20096"
+    },
+    {
+        "code": "ENGL 1050E",
+        "title": "Sportswriting",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "20103"
+    },
+    {
+        "code": "ENGL 1050F",
+        "title": "Line Work: Experiments in Short-Form Writing",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "10103"
+    },
+    {
+        "code": "ENGL 1050G",
+        "title": "Journalism Practicum",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "10300"
+    },
+    {
+        "code": "ENGL 1050J",
+        "title": "Multimedia Storytelling",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "10102"
+    },
+    {
+        "code": "ENGL 1050Q",
+        "title": "Writing the Family",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "18633"
+    },
+    {
+        "code": "ENGL 1050V",
+        "title": "Writing Wonder, Joy and Awe",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "18840"
+    },
+    {
+        "code": "ENGL 1050Y",
+        "title": "Traces of Empire: Writing Filipino and American Experiences Through Creative Nonfiction",
+        "semesters": [
+            "Summer"
+        ],
+        "crn": "60073"
+    },
+    {
+        "code": "ENGL 1050Z",
+        "title": "Audio/Video Storytelling",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26579"
+    },
+    {
+        "code": "ENGL 1051A",
+        "title": "The Art of the Interview",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26695"
+    },
+    {
+        "code": "ENGL 1160P",
+        "title": "Writing Climate, Writing Community",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "10302"
+    },
+    {
+        "code": "ENGL 1180R",
+        "title": "Travel Writing: Personal and Cultural Narratives",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "16949"
+    },
+    {
+        "code": "ENGL 1180Z",
+        "title": "Healthcare Journalism",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "18853"
+    },
+    {
+        "code": "ENGL 1181B",
+        "title": "Memoirs of Migration",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26691"
+    },
+    {
+        "code": "ENGL 1190M",
+        "title": "The Teaching and Practice of Writing: Writing Fellows Program",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "19283"
+    },
+    {
+        "code": "ENGL 1190S",
+        "title": "Poetics of Narrative",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "18794"
+    },
+    {
+        "code": "ENGL 1190U",
+        "title": "Nature Writing",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "10234"
+    },
+    {
+        "code": "ENGL 1190X",
+        "title": "Nonfiction Now",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "20265"
+    },
+    {
+        "code": "ENGL 1190Z",
+        "title": "The Art of Craft",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "20185"
+    },
+    {
+        "code": "ENGL 1191B",
+        "title": "Special Topics in Nonfiction Writing: Fugitive Letters: The Prison Notebooks",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17613"
+    },
+    {
+        "code": "ENGL 1311G",
+        "title": "Shakespeare, Love and Friendship",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17163"
+    },
+    {
+        "code": "ENGL 1361G",
+        "title": "Tolkien and the Renaissance",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17164"
+    },
+    {
+        "code": "ENGL 1361L",
+        "title": "Milton",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "25417"
+    },
+    {
+        "code": "ENGL 1361R",
+        "title": "Chaucer",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "25978"
+    },
+    {
+        "code": "ENGL 1361S",
+        "title": "Sexual Contracts in Renaissance Drama",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17216"
+    },
+    {
+        "code": "ENGL 1512A",
+        "title": "Freaks of Nature: Emerson, Thoreau, and the Transcendentalists",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "25432"
+    },
+    {
+        "code": "ENGL 1562C",
+        "title": "The Pursuit of Happiness in Eighteenth-Century Literature",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "16963"
+    },
+    {
+        "code": "ENGL 1710K",
+        "title": "Literature and the Problem of Poverty",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "16960"
+    },
+    {
+        "code": "ENGL 1710P",
+        "title": "The Literature and Culture of Black Power Reconsidered",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17434"
+    },
+    {
+        "code": "ENGL 1711N",
+        "title": "Monsters in our Midst: The Plantation and the Woods in Trans-American Literature",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "10123"
+    },
+    {
+        "code": "ENGL 1711S",
+        "title": "James Baldwin",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "20003"
+    },
+    {
+        "code": "ENGL 1711T",
+        "title": "1984: The Myth and the Moment",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "19164"
+    },
+    {
+        "code": "ENGL 1760E",
+        "title": "Who's Afraid of Virginia Woolf?",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "16921"
+    },
+    {
+        "code": "ENGL 1762D",
+        "title": "Kubrick",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "16922"
+    },
+    {
+        "code": "ENGL 1762J",
+        "title": "Books Behind Bars: African American Literature's Response to Mass Incarceration",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26878"
+    },
+    {
+        "code": "ENGL 1762P",
+        "title": "Lucille Clifton",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "16967"
+    },
+    {
+        "code": "ENGL 1762Q",
+        "title": "Apartheid and the Literary Imagination",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "25441"
+    },
+    {
+        "code": "ENGL 1762R",
+        "title": "Contemporary Narratives of US Slavery (AMST 1920A)",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "19364"
+    },
+    {
+        "code": "ENGL 1901R",
+        "title": "The Problem of Literary Study",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "16961"
+    },
+    {
+        "code": "ENGL 1901T",
+        "title": "Practices of Autofiction",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "25446"
+    },
+    {
+        "code": "ENGL 1991",
+        "title": "Senior Honors Seminar in English",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "10025"
+    },
+    {
+        "code": "ENGL 1992",
+        "title": "Senior Honors Thesis in English",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "20005"
+    },
+    {
+        "code": "ENGL 1993",
+        "title": "Senior Honors Seminar in Nonfiction Writing",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "16684"
+    },
+    {
+        "code": "ENGL 1994",
+        "title": "Senior Honors Thesis in Nonfiction Writing",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "25421"
+    },
+    {
+        "code": "ENGL 2210",
+        "title": "Proseminar",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "16865"
+    },
+    {
+        "code": "ENGL 2361E",
+        "title": "Sadomasochism and Early Modern Literature",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26137"
+    },
+    {
+        "code": "ENGL 2361G",
+        "title": "Chaucer",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26203"
+    },
+    {
+        "code": "ENGL 2561Y",
+        "title": "Satire, Irony, and Swift",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17276"
+    },
+    {
+        "code": "ENGL 2561Z",
+        "title": "Walter Benjamin Around 1921 (COLT 2650Y).",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "19033"
+    },
+    {
+        "code": "ENGL 2700B",
+        "title": "After Blackness: Framing Contemporary African American Literature",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "25445"
+    },
+    {
+        "code": "ENGL 2761P",
+        "title": "Modernism and Theories of Space",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26395"
+    },
+    {
+        "code": "ENGL 2761X",
+        "title": "Literatures of the (Anti)Plantation",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "25431"
+    },
+    {
+        "code": "ENGL 2900X",
+        "title": "Postcolonial Theory",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "20268"
+    },
+    {
+        "code": "ENGL 2901P",
+        "title": "Black Feminism: Roots, Routes, Futures",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "16923"
+    },
+    {
+        "code": "ENGL 2901R",
+        "title": "Technologies of Memory",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "25893"
+    },
+    {
+        "code": "ENGL 2901S",
+        "title": "Late Formalism",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "16996"
+    },
+    {
+        "code": "ENGL 2940",
+        "title": "Scholarly Writing for Journal Publication",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "25427"
+    },
+    {
+        "code": "ENGL 2950",
+        "title": "Seminar in Pedagogy and Composition Theory",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "10136"
+    },
+    {
+        "code": "ENGL 2970",
+        "title": "Preliminary Examination Preparation",
+        "semesters": [
+            "Fall",
+            "Spring"
+        ],
+        "crn": "16566"
+    },
+    {
+        "code": "ENGL 2990",
+        "title": "Thesis Preparation",
+        "semesters": [
+            "Fall",
+            "Spring"
+        ],
+        "crn": "16567"
+    }
+]

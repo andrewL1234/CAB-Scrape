@@ -1,0 +1,683 @@
+[
+    {
+        "code": "PHP 0060",
+        "title": "Complexities and Challenges of Global Health",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17706"
+    },
+    {
+        "code": "PHP 0310",
+        "title": "Health Care in the United States",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17561"
+    },
+    {
+        "code": "PHP 0320",
+        "title": "Introduction to Public Health",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26917"
+    },
+    {
+        "code": "PHP 0330",
+        "title": "Public Health Policy",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26881"
+    },
+    {
+        "code": "PHP 0400",
+        "title": "Intro. to Health Disparities & Making Connection btw Structure, Social Determinants&Health Equity",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26777"
+    },
+    {
+        "code": "PHP 0650",
+        "title": "From Manufacturer to Patient:  Why is the Cost of Prescription Drugs So Darn High?",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26864"
+    },
+    {
+        "code": "PHP 0720",
+        "title": "Public Health and the Environment",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26848"
+    },
+    {
+        "code": "PHP 0850",
+        "title": "Fundamentals of Epidemiology",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17525"
+    },
+    {
+        "code": "PHP 1070",
+        "title": "Global Burden of Disease",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "18272"
+    },
+    {
+        "code": "PHP 1100",
+        "title": "Comparative Health Care Systems",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26944"
+    },
+    {
+        "code": "PHP 1300",
+        "title": "Parenting Behaviors and Child Health",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26778"
+    },
+    {
+        "code": "PHP 1450",
+        "title": "COVID-19, Public Health, and Health Policy",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17557"
+    },
+    {
+        "code": "PHP 1460",
+        "title": "Public Health in a Changing World: Law, Policy & Justice",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17999"
+    },
+    {
+        "code": "PHP 1501",
+        "title": "Essentials of Data Analysis",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17526"
+    },
+    {
+        "code": "PHP 1510",
+        "title": "Principles of Biostatistics and Data Analysis",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17558"
+    },
+    {
+        "code": "PHP 1550",
+        "title": "Substance Use and Vulnerability to Addiction",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "18281"
+    },
+    {
+        "code": "PHP 1560",
+        "title": "Statistical Programming in R",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "18350"
+    },
+    {
+        "code": "PHP 1580",
+        "title": "Pandemic Game Changers: Preparing the Next Generation of Decision-Makers for Emerging Bio Threats",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "19235"
+    },
+    {
+        "code": "PHP 1670",
+        "title": "Public Mental Health: A Framework for Studying and Preventing Mental Disorders",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26857"
+    },
+    {
+        "code": "PHP 1680I",
+        "title": "Pathology to Power:  Disability, Health and Community",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17556"
+    },
+    {
+        "code": "PHP 1681",
+        "title": "Reproductive Health, Rights and Justice",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26776"
+    },
+    {
+        "code": "PHP 1700",
+        "title": "Current Topics in Environmental Health",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "18523"
+    },
+    {
+        "code": "PHP 1725",
+        "title": "Rural Public Health",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26862"
+    },
+    {
+        "code": "PHP 1802",
+        "title": "Human Security and Humanitarian Response: Increasing Effectiveness and Accountability (IAPA 1802S).",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "18747"
+    },
+    {
+        "code": "PHP 1821",
+        "title": "Incarceration, Disparities, and Health",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17690"
+    },
+    {
+        "code": "PHP 1855",
+        "title": "Infectious Disease Modeling",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "18360"
+    },
+    {
+        "code": "PHP 1880",
+        "title": "Meditation, Mindfulness and Health",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17559"
+    },
+    {
+        "code": "PHP 1890",
+        "title": "The Craving Mind",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "18126"
+    },
+    {
+        "code": "PHP 1900",
+        "title": "Epidemiology of Disorders and Diseases of Childhood and Young Adulthood",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "18603"
+    },
+    {
+        "code": "PHP 1910",
+        "title": "Public Health Senior Seminar",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "18130"
+    },
+    {
+        "code": "PHP 1915",
+        "title": "Public Health Honors Senior Seminar",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "18270"
+    },
+    {
+        "code": "PHP 1920",
+        "title": "Social Determinants of Health",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17533"
+    },
+    {
+        "code": "PHP 1998",
+        "title": "Public Health Nutrition",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "18547"
+    },
+    {
+        "code": "PHP 2015",
+        "title": "Foundations of Spatial Analysis in Public Health",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17708"
+    },
+    {
+        "code": "PHP 2018",
+        "title": "Epidemiology of Cardio-Metabolic Health",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17709"
+    },
+    {
+        "code": "PHP 2023",
+        "title": "Maternal and Child Health in the United States",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "18308"
+    },
+    {
+        "code": "PHP 2030",
+        "title": "Clinical Trials Methodology",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26846"
+    },
+    {
+        "code": "PHP 2060",
+        "title": "Qualitative Methods in Health Research",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "18282"
+    },
+    {
+        "code": "PHP 2061",
+        "title": "Qualitative Data Analysis in Public Health Research",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "18283"
+    },
+    {
+        "code": "PHP 2072",
+        "title": "Applied Public Health: Policy, leadership and communication",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "18278"
+    },
+    {
+        "code": "PHP 2073",
+        "title": "Leadership and Communication",
+        "semesters": [
+            "Summer"
+        ],
+        "crn": "60102"
+    },
+    {
+        "code": "PHP 2074",
+        "title": "Needs Analysis and Program Planning",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "18020"
+    },
+    {
+        "code": "PHP 2080",
+        "title": "Public Health Law and Policy",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "19073"
+    },
+    {
+        "code": "PHP 2081",
+        "title": "Health Policy and Equity",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "18550"
+    },
+    {
+        "code": "PHP 2090A",
+        "title": "Research Grant Writing for Public Health-Part A",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "18330"
+    },
+    {
+        "code": "PHP 2120",
+        "title": "Introduction to Methods in Epidemiologic Research",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "18287"
+    },
+    {
+        "code": "PHP 2130",
+        "title": "Human Biology for Public Health",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26856"
+    },
+    {
+        "code": "PHP 2140",
+        "title": "Principles of Applied Epidemiology",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "18546"
+    },
+    {
+        "code": "PHP 2150",
+        "title": "Foundations in Modern Epidemiologic Methods",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17688"
+    },
+    {
+        "code": "PHP 2220F",
+        "title": "Reproductive, Perinatal  and Early Childhood Epidemiology",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "18604"
+    },
+    {
+        "code": "PHP 2232",
+        "title": "Contemporary History of Epidemiologic Methods",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17773"
+    },
+    {
+        "code": "PHP 2250",
+        "title": "Advanced Quantitative Methods in Epidemiologic Research",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17710"
+    },
+    {
+        "code": "PHP 2260",
+        "title": "Applied Epidemiologic Data Analysis",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17711"
+    },
+    {
+        "code": "PHP 2300",
+        "title": "Research Methods in Behavioral Science",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "18285"
+    },
+    {
+        "code": "PHP 2310",
+        "title": "Physical Activity and Public Health",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "18162"
+    },
+    {
+        "code": "PHP 2340",
+        "title": "Behavioral and Social Science Theory for Health Promotion",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "18277"
+    },
+    {
+        "code": "PHP 2355",
+        "title": "Designing and Evaluating Public Health Interventions",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "18276"
+    },
+    {
+        "code": "PHP 2361",
+        "title": "Proseminar in Health Behavior Intervention Research",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "18364"
+    },
+    {
+        "code": "PHP 2371",
+        "title": "Psychosocial and Pharmacologic Treatment of Substance Use Disorders",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "18775"
+    },
+    {
+        "code": "PHP 2400",
+        "title": "The U.S. Health Care System: Case Studies in Financing, Delivery, Regulation and Public Health",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26999"
+    },
+    {
+        "code": "PHP 2410E",
+        "title": "Medicare: A Data Based Policy Examination",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "18013"
+    },
+    {
+        "code": "PHP 2445",
+        "title": "Minding the Gap: The U.S. Healthcare Safety Net",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "18040"
+    },
+    {
+        "code": "PHP 2446",
+        "title": "Health Care Financing and Delivery",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "18579"
+    },
+    {
+        "code": "PHP 2450",
+        "title": "Measuring and Improving the Quality of Health Care",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "19201"
+    },
+    {
+        "code": "PHP 2455A",
+        "title": "Health Services Research Methods I",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "18407"
+    },
+    {
+        "code": "PHP 2455B",
+        "title": "Health Services Research Methods II",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26969"
+    },
+    {
+        "code": "PHP 2465A",
+        "title": "Introduction to Health Decision Analysis",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "18039"
+    },
+    {
+        "code": "PHP 2490",
+        "title": "Methods in Pharmacoepidemiology",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17712"
+    },
+    {
+        "code": "PHP 2506",
+        "title": "Biostatistics for Public Health Research",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "18351"
+    },
+    {
+        "code": "PHP 2507",
+        "title": "Biostatistics and Applied Data Analysis I",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17714"
+    },
+    {
+        "code": "PHP 2510",
+        "title": "Principles of Biostatistics and Data Analysis",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "18290"
+    },
+    {
+        "code": "PHP 2514",
+        "title": "Applied Generalized Linear Models",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "18397"
+    },
+    {
+        "code": "PHP 2515",
+        "title": "Fundamentals of Probability and Statistical Inference",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "18374"
+    },
+    {
+        "code": "PHP 2520",
+        "title": "Statistical Inference I",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "18398"
+    },
+    {
+        "code": "PHP 2550",
+        "title": "Practical Data Analysis",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "18399"
+    },
+    {
+        "code": "PHP 2560",
+        "title": "Statistical Programming with R",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "18380"
+    },
+    {
+        "code": "PHP 2601",
+        "title": "Linear Models",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "18385"
+    },
+    {
+        "code": "PHP 2610",
+        "title": "Causal Inference and Missing Data",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "18343"
+    },
+    {
+        "code": "PHP 2690A",
+        "title": "Statistical Methods for Design and Analysis of Randomized Trials",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "18354"
+    },
+    {
+        "code": "PHP 2700",
+        "title": "Lessons (Un)Learned in Public Health and Humanitarian Response: A Historical Perspective",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "18406"
+    },
+    {
+        "code": "PHP 2710",
+        "title": "Interdisciplinary Perspectives on Disability and Death in the Global South",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "18160"
+    },
+    {
+        "code": "PHP 2720",
+        "title": "Implementing Public Health Programs and Interventions in the Global South",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "18286"
+    },
+    {
+        "code": "PHP 2760",
+        "title": "Critical Perspectives in Global Health",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26779"
+    },
+    {
+        "code": "PHP 2950",
+        "title": "Doctoral Seminar in Public Health",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "18333"
+    },
+    {
+        "code": "PHP 2990",
+        "title": "Thesis Preparation",
+        "semesters": [
+            "Fall",
+            "Spring"
+        ],
+        "crn": "16612"
+    }
+]

@@ -1,0 +1,108 @@
+[
+    {
+        "code": "CLAS 0090A",
+        "title": "Women and Gender in Ancient Religions (RELS 0090A)",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "19357"
+    },
+    {
+        "code": "CLAS 0210B",
+        "title": "Death in Ancient Greece",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17417"
+    },
+    {
+        "code": "CLAS 0210S",
+        "title": "The Age of Augustus",
+        "semesters": [
+            "Summer"
+        ],
+        "crn": "60025"
+    },
+    {
+        "code": "CLAS 0765",
+        "title": "Witches and Vixens: Nasty Women in Ancient Greece and Rome",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17418"
+    },
+    {
+        "code": "CLAS 0900",
+        "title": "Greek Mythology",
+        "semesters": [
+            "Summer"
+        ],
+        "crn": "60026"
+    },
+    {
+        "code": "CLAS 0920",
+        "title": "Roman Mythology",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "18755"
+    },
+    {
+        "code": "CLAS 1120G",
+        "title": "The Idea of Self",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17420"
+    },
+    {
+        "code": "CLAS 1121C",
+        "title": "Cicero in New Spain",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "18972"
+    },
+    {
+        "code": "CLAS 1210",
+        "title": "Mediterranean Culture Wars: Archaic Greek History, c. 1200 to 479 BC",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17421"
+    },
+    {
+        "code": "CLAS 1320",
+        "title": "Roman History II: The Roman Empire and Its Impact",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17422"
+    },
+    {
+        "code": "CLAS 2011",
+        "title": "Critical Approaches to Classical Texts: Theory and Methods",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "19190"
+    },
+    {
+        "code": "CLAS 2970",
+        "title": "Preliminary Examination Preparation",
+        "semesters": [
+            "Fall",
+            "Spring"
+        ],
+        "crn": "16546"
+    },
+    {
+        "code": "CLAS 2990",
+        "title": "Thesis Preparation",
+        "semesters": [
+            "Fall",
+            "Spring"
+        ],
+        "crn": "16547"
+    }
+]

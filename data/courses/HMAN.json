@@ -1,0 +1,162 @@
+[
+    {
+        "code": "HMAN 1000A",
+        "title": "The Cogut Institute for the Humanities Research Seminar",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "16724"
+    },
+    {
+        "code": "HMAN 1000B",
+        "title": "The Cogut Institute for the Humanities Research Seminar",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "25393"
+    },
+    {
+        "code": "HMAN 1973N",
+        "title": "Islam in America: A Global History",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "25801"
+    },
+    {
+        "code": "HMAN 1974L",
+        "title": "The Coming Apocalypse: Between the Earth and the World",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "25406"
+    },
+    {
+        "code": "HMAN 1976H",
+        "title": "Respiring and Conspiring",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26761"
+    },
+    {
+        "code": "HMAN 1976W",
+        "title": "Posthuman Latin America: Contemporary Imagination and Visions of the Future (HISP 1371U).",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "18682"
+    },
+    {
+        "code": "HMAN 1976X",
+        "title": "Cicero in New Spain (CLAS 1121C)",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "19262"
+    },
+    {
+        "code": "HMAN 1977B",
+        "title": "Foreign Policy Worlds:  Diplomatic Designs and International Governing",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17518"
+    },
+    {
+        "code": "HMAN 2300",
+        "title": "Introduction to Digital Humanities",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "25309"
+    },
+    {
+        "code": "HMAN 2301",
+        "title": "Digital Humanities Capstone Seminar",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "16735"
+    },
+    {
+        "code": "HMAN 2401K",
+        "title": "Technologies of Memory (ENGL 2901R)",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26613"
+    },
+    {
+        "code": "HMAN 2401L",
+        "title": "Postcolonial Theory (ENGL 2900X)",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26612"
+    },
+    {
+        "code": "HMAN 2401X",
+        "title": "Archive Theory: Imagining Absence Otherwise",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "16943"
+    },
+    {
+        "code": "HMAN 2401Y",
+        "title": "Faces: From Masks to Deepfake",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "16938"
+    },
+    {
+        "code": "HMAN 2402A",
+        "title": "Decolonial Futurities: Submerged Perspectives from and within the Americas (POBS 2400/MCM2510O).",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "18491"
+    },
+    {
+        "code": "HMAN 2402B",
+        "title": "Empire: Global Perspectives",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26389"
+    },
+    {
+        "code": "HMAN 2402C",
+        "title": "Reading the Large Language Models: Artificial Intelligence, Language, and Literary Art",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "25654"
+    },
+    {
+        "code": "HMAN 2402D",
+        "title": "Metals, Mining, and Jewelry: Making the World Anew",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26731"
+    },
+    {
+        "code": "HMAN 2500",
+        "title": "Project Development Workshop",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "25394"
+    },
+    {
+        "code": "HMAN 2971F",
+        "title": "Critique of Political Theology: Ancient Texts, Contemporary Readings",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17685"
+    }
+]

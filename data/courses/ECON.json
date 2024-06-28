@@ -1,0 +1,621 @@
+[
+    {
+        "code": "ECON 0110",
+        "title": "Principles of Economics",
+        "semesters": [
+            "Fall",
+            "Spring",
+            "Summer"
+        ],
+        "crn": "10187"
+    },
+    {
+        "code": "ECON 0160",
+        "title": "Intro to Finance - Money, Markets and You",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26511"
+    },
+    {
+        "code": "ECON 0170",
+        "title": "Essential Mathematics for Economics",
+        "semesters": [
+            "Fall",
+            "Spring"
+        ],
+        "crn": "10188"
+    },
+    {
+        "code": "ECON 0400",
+        "title": "Race and Inequality in America",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "25975"
+    },
+    {
+        "code": "ECON 0600",
+        "title": "Gender in the Economy",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "18574"
+    },
+    {
+        "code": "ECON 0710",
+        "title": "Financial Accounting",
+        "semesters": [
+            "Fall",
+            "Spring",
+            "Summer"
+        ],
+        "crn": "10189"
+    },
+    {
+        "code": "ECON 1050",
+        "title": "Environmental Economics and  Policy",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "19139"
+    },
+    {
+        "code": "ECON 1070",
+        "title": "Race, Crime, and Punishment in America",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17618"
+    },
+    {
+        "code": "ECON 1090",
+        "title": "Introduction to Game Theory",
+        "semesters": [
+            "Fall",
+            "Spring",
+            "Summer"
+        ],
+        "crn": "17619"
+    },
+    {
+        "code": "ECON 1110",
+        "title": "Intermediate Microeconomics",
+        "semesters": [
+            "Fall",
+            "Spring",
+            "Summer"
+        ],
+        "crn": "10193"
+    },
+    {
+        "code": "ECON 1130",
+        "title": "Intermediate Microeconomics (Mathematical)",
+        "semesters": [
+            "Fall",
+            "Spring"
+        ],
+        "crn": "10196"
+    },
+    {
+        "code": "ECON 1200",
+        "title": "History of Economic Thought",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "25955"
+    },
+    {
+        "code": "ECON 1210",
+        "title": "Intermediate Macroeconomics",
+        "semesters": [
+            "Fall",
+            "Spring",
+            "Summer"
+        ],
+        "crn": "10197"
+    },
+    {
+        "code": "ECON 1310",
+        "title": "Labor Economics",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "25956"
+    },
+    {
+        "code": "ECON 1350",
+        "title": "Environmental Economics and Policy",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "25985"
+    },
+    {
+        "code": "ECON 1355",
+        "title": "Environmental Issues in Development Economics",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "25959"
+    },
+    {
+        "code": "ECON 1360",
+        "title": "Health Economics",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17620"
+    },
+    {
+        "code": "ECON 1390",
+        "title": "Inequality of Income, Wealth, and Health in the United States",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17621"
+    },
+    {
+        "code": "ECON 1410",
+        "title": "Urban Economics",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "25960"
+    },
+    {
+        "code": "ECON 1420",
+        "title": "Industrial Organization",
+        "semesters": [
+            "Fall",
+            "Spring"
+        ],
+        "crn": "17622"
+    },
+    {
+        "code": "ECON 1430",
+        "title": "The Economics of Social Policy",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "25962"
+    },
+    {
+        "code": "ECON 1450",
+        "title": "Economic Organizations and Economic Systems",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17623"
+    },
+    {
+        "code": "ECON 1480",
+        "title": "Public Economics",
+        "semesters": [
+            "Fall",
+            "Spring"
+        ],
+        "crn": "17624"
+    },
+    {
+        "code": "ECON 1487",
+        "title": "Translating Evidence into Economic Policy",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17625"
+    },
+    {
+        "code": "ECON 1490",
+        "title": "Theory of Market Design",
+        "semesters": [
+            "Fall",
+            "Spring"
+        ],
+        "crn": "17777"
+    },
+    {
+        "code": "ECON 1500",
+        "title": "Current Global Macroeconomic Challenges",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "25965"
+    },
+    {
+        "code": "ECON 1530",
+        "title": "Health, Hunger and the Household in Developing Countries",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17778"
+    },
+    {
+        "code": "ECON 1540",
+        "title": "International Trade",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "25966"
+    },
+    {
+        "code": "ECON 1550",
+        "title": "International Finance",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17628"
+    },
+    {
+        "code": "ECON 1620",
+        "title": "Introduction to Econometrics",
+        "semesters": [
+            "Fall",
+            "Spring",
+            "Summer"
+        ],
+        "crn": "10200"
+    },
+    {
+        "code": "ECON 1629",
+        "title": "Applied Research Methods for Economists",
+        "semesters": [
+            "Fall",
+            "Spring"
+        ],
+        "crn": "10202"
+    },
+    {
+        "code": "ECON 1630",
+        "title": "Mathematical Econometrics I",
+        "semesters": [
+            "Fall",
+            "Spring"
+        ],
+        "crn": "10239"
+    },
+    {
+        "code": "ECON 1670",
+        "title": "Advanced Topics in Econometrics",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "25968"
+    },
+    {
+        "code": "ECON 1710",
+        "title": "Investments I",
+        "semesters": [
+            "Fall",
+            "Spring"
+        ],
+        "crn": "10242"
+    },
+    {
+        "code": "ECON 1720",
+        "title": "Corporate Finance",
+        "semesters": [
+            "Fall",
+            "Spring"
+        ],
+        "crn": "10244"
+    },
+    {
+        "code": "ECON 1730",
+        "title": "Venture Capital, Private Equity, and Entrepreneurship",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17629"
+    },
+    {
+        "code": "ECON 1750",
+        "title": "Investments II",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17630"
+    },
+    {
+        "code": "ECON 1760",
+        "title": "Financial Institutions",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17631"
+    },
+    {
+        "code": "ECON 1770",
+        "title": "Crisis Economics",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26124"
+    },
+    {
+        "code": "ECON 1805",
+        "title": "Economics in the Laboratory",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "25970"
+    },
+    {
+        "code": "ECON 1820",
+        "title": "Theory of Behavioral Economics",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17632"
+    },
+    {
+        "code": "ECON 1830",
+        "title": "Behavioral Finance",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "25972"
+    },
+    {
+        "code": "ECON 1850",
+        "title": "Theory of Economic Growth",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "25973"
+    },
+    {
+        "code": "ECON 1870",
+        "title": "Game Theory and Applications to Economics",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17633"
+    },
+    {
+        "code": "ECON 1960",
+        "title": "Honors Tutorial for Economics Majors",
+        "semesters": [
+            "Fall",
+            "Spring"
+        ],
+        "crn": "10245"
+    },
+    {
+        "code": "ECON 2010",
+        "title": "Mathematics for Economists",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17931"
+    },
+    {
+        "code": "ECON 2020",
+        "title": "Applied Economics Analysis",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26106"
+    },
+    {
+        "code": "ECON 2030",
+        "title": "Introduction to Econometrics I",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17932"
+    },
+    {
+        "code": "ECON 2040",
+        "title": "Econometric Methods",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26107"
+    },
+    {
+        "code": "ECON 2050",
+        "title": "Microeconomics I",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17933"
+    },
+    {
+        "code": "ECON 2060",
+        "title": "Microeconomics II",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26108"
+    },
+    {
+        "code": "ECON 2070",
+        "title": "Macroeconomics I",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17934"
+    },
+    {
+        "code": "ECON 2080",
+        "title": "Macroeconomics II",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26109"
+    },
+    {
+        "code": "ECON 2150",
+        "title": "Market Design",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17935"
+    },
+    {
+        "code": "ECON 2190C",
+        "title": "Topics in Economic Theory",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26110"
+    },
+    {
+        "code": "ECON 2260",
+        "title": "Political Economy I",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17936"
+    },
+    {
+        "code": "ECON 2310",
+        "title": "Labor Economics",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17937"
+    },
+    {
+        "code": "ECON 2340",
+        "title": "Labor Economics II",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26111"
+    },
+    {
+        "code": "ECON 2380",
+        "title": "The Economics of Children and Families",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "18966"
+    },
+    {
+        "code": "ECON 2390",
+        "title": "Applied Econometrics I",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17939"
+    },
+    {
+        "code": "ECON 2400",
+        "title": "Applied Econometrics II",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26112"
+    },
+    {
+        "code": "ECON 2410",
+        "title": "Urbanization",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26113"
+    },
+    {
+        "code": "ECON 2450",
+        "title": "Exchange Scholar Program",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "16559"
+    },
+    {
+        "code": "ECON 2510",
+        "title": "Economic Development I",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26888"
+    },
+    {
+        "code": "ECON 2520",
+        "title": "Economic Development II",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "19308"
+    },
+    {
+        "code": "ECON 2600",
+        "title": "Bayesian and Structural Econometrics",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17941"
+    },
+    {
+        "code": "ECON 2630",
+        "title": "Econometric Theory",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26115"
+    },
+    {
+        "code": "ECON 2830",
+        "title": "Economic Growth and Comparative Development",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17943"
+    },
+    {
+        "code": "ECON 2840",
+        "title": "Empirical Analysis of Economic Growth",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26117"
+    },
+    {
+        "code": "ECON 2930",
+        "title": "Workshop in Applied Economics",
+        "semesters": [
+            "Fall",
+            "Spring"
+        ],
+        "crn": "18501"
+    },
+    {
+        "code": "ECON 2950",
+        "title": "Workshop in Econometrics",
+        "semesters": [
+            "Fall",
+            "Spring"
+        ],
+        "crn": "18502"
+    },
+    {
+        "code": "ECON 2960",
+        "title": "Workshop in Macroeconomics and Related Topics",
+        "semesters": [
+            "Fall",
+            "Spring"
+        ],
+        "crn": "18503"
+    },
+    {
+        "code": "ECON 2970",
+        "title": "Workshop in Economic Theory",
+        "semesters": [
+            "Fall",
+            "Spring"
+        ],
+        "crn": "18504"
+    },
+    {
+        "code": "ECON 2990",
+        "title": "Thesis Preparation",
+        "semesters": [
+            "Fall",
+            "Spring"
+        ],
+        "crn": "16560"
+    }
+]

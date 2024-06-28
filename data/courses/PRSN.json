@@ -1,0 +1,42 @@
+[
+    {
+        "code": "PRSN 0100",
+        "title": "Basic Persian",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "16741"
+    },
+    {
+        "code": "PRSN 0200",
+        "title": "Basic Persian",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26134"
+    },
+    {
+        "code": "PRSN 0300",
+        "title": "Intermediate Persian Language and Culture",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "16742"
+    },
+    {
+        "code": "PRSN 0400",
+        "title": "Intermediate Persian Language and Culture",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26135"
+    },
+    {
+        "code": "PRSN 0720",
+        "title": "Modern Iran: Literature, Media & Pop Culture",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26140"
+    }
+]

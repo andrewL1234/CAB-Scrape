@@ -1,0 +1,18 @@
+[
+    {
+        "code": "PLME 0400",
+        "title": "Introduction to Medical Illustration",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "16654"
+    },
+    {
+        "code": "PLME 1000",
+        "title": "PLME Senior Seminar in Scientific Medicine",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "16655"
+    }
+]

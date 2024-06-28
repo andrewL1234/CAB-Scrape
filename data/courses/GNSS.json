@@ -1,0 +1,66 @@
+[
+    {
+        "code": "GNSS 0120",
+        "title": "Introduction to Gender and Sexuality Studies",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "18147"
+    },
+    {
+        "code": "GNSS 0710D",
+        "title": "Sapphic Arts: From Poetry to TikTok",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "18917"
+    },
+    {
+        "code": "GNSS 1400",
+        "title": "Agnotology: The Will to Ignorance",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "18948"
+    },
+    {
+        "code": "GNSS 1990",
+        "title": "Senior Seminar",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "18155"
+    },
+    {
+        "code": "GNSS 2000",
+        "title": "Method, Evidence, Critique: Gender and Sexuality Studies across the Disciplines",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26244"
+    },
+    {
+        "code": "GNSS 2010R",
+        "title": "Pembroke Research Seminar - Unwriting the Anthropocene: A Call to Experiment",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "18134"
+    },
+    {
+        "code": "GNSS 2020R",
+        "title": "Pembroke Research Seminar - Unwriting the Anthropocene: A Call to Experiment",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26243"
+    },
+    {
+        "code": "GNSS XLIST",
+        "title": "Courses of Interest to Concentrators in Gender and Sexuality Studies",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "19254"
+    }
+]

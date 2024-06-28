@@ -1,0 +1,141 @@
+[
+    {
+        "code": "AFRI 0090",
+        "title": "An Introduction to Africana Studies",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "10238"
+    },
+    {
+        "code": "AFRI 0140",
+        "title": "First Lady of the Struggle:  Mary McLeod Bethune and Global Black Freedom",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "18648"
+    },
+    {
+        "code": "AFRI 0160",
+        "title": "Twentieth-Century Africa",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "18696"
+    },
+    {
+        "code": "AFRI 0670",
+        "title": "Global Black Radicalism",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "18644"
+    },
+    {
+        "code": "AFRI 0720",
+        "title": "More Than Words: Contemporary Afro-Brazilian Fiction and Culture",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "19237"
+    },
+    {
+        "code": "AFRI 0860",
+        "title": "Home and Homecoming",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "19168"
+    },
+    {
+        "code": "AFRI 1060D",
+        "title": "The Harlem Renaissance: Art, Literature, and Classic Women Blues",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "18770"
+    },
+    {
+        "code": "AFRI 1099",
+        "title": "Alternative Technofutures: Black Speculative Visioning for a Better Tomorrow",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "19344"
+    },
+    {
+        "code": "AFRI 1181",
+        "title": "Black Women Visual Artists Global Contemporary Art in the United States",
+        "semesters": [
+            "Fall",
+            "Spring"
+        ],
+        "crn": "18977"
+    },
+    {
+        "code": "AFRI 1330",
+        "title": "Africana Studies Junior Seminar",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "10236"
+    },
+    {
+        "code": "AFRI 1360",
+        "title": "Africana Studies: Knowledge, Texts and Methodology",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "20189"
+    },
+    {
+        "code": "AFRI 2015",
+        "title": "Revolt and Revolution in the Black World",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26886"
+    },
+    {
+        "code": "AFRI 2101",
+        "title": "Methods in Africana Studies",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "19273"
+    },
+    {
+        "code": "AFRI 2303",
+        "title": "Black Feminism and the Politics of Care",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "18697"
+    },
+    {
+        "code": "AFRI 2970",
+        "title": "Preliminary Examination Preparation",
+        "semesters": [
+            "Fall",
+            "Spring"
+        ],
+        "crn": "16526"
+    },
+    {
+        "code": "AFRI 2990",
+        "title": "Thesis Preparation",
+        "semesters": [
+            "Fall",
+            "Spring"
+        ],
+        "crn": "16527"
+    },
+    {
+        "code": "AFRI XLIST",
+        "title": "Courses of Interest to Concentrators in Africana Studies",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "19321"
+    }
+]

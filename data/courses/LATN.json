@@ -1,0 +1,76 @@
+[
+    {
+        "code": "LATN 0100",
+        "title": "Essentials of the Latin Language",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17430"
+    },
+    {
+        "code": "LATN 0300",
+        "title": "Introduction to Latin Literature",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17431"
+    },
+    {
+        "code": "LATN 1020B",
+        "title": "Cicero, Verrines",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "18732"
+    },
+    {
+        "code": "LATN 1110J",
+        "title": "Petronius",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17738"
+    },
+    {
+        "code": "LATN 1110X",
+        "title": "Selections from Latin Authors: Ovid, <i>Ars Amatoria</i>",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17739"
+    },
+    {
+        "code": "LATN 1120G",
+        "title": "Reading Humanist Latin Texts",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17740"
+    },
+    {
+        "code": "LATN 2090I",
+        "title": "Augustan Literature and Egypt",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "18727"
+    },
+    {
+        "code": "LATN 2970",
+        "title": "Preliminary Exam Preparation",
+        "semesters": [
+            "Fall",
+            "Spring"
+        ],
+        "crn": "16592"
+    },
+    {
+        "code": "LATN 2990",
+        "title": "Thesis Preparation",
+        "semesters": [
+            "Fall",
+            "Spring"
+        ],
+        "crn": "16593"
+    }
+]

@@ -1,0 +1,90 @@
+[
+    {
+        "code": "UNIV 0101",
+        "title": "Being Proactive and Reflective in Your Education",
+        "semesters": [
+            "Summer"
+        ],
+        "crn": "60013"
+    },
+    {
+        "code": "UNIV 0102",
+        "title": "Bridge Scholars: Intercultural Competence for Leadership",
+        "semesters": [
+            "Summer"
+        ],
+        "crn": "60014"
+    },
+    {
+        "code": "UNIV 0123",
+        "title": "Practical Introduction to Peer Advising",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "25534"
+    },
+    {
+        "code": "UNIV 0400",
+        "title": "Beyond Narnia: The Literature of C.S. Lewis",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "20250"
+    },
+    {
+        "code": "UNIV 0456",
+        "title": "Exploring Career Options",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17103"
+    },
+    {
+        "code": "UNIV 1003",
+        "title": "Jerusalem: Jews, Christians, Muslims",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "25440"
+    },
+    {
+        "code": "UNIV 1110",
+        "title": "The Theory and Teaching of Problem Solving",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17110"
+    },
+    {
+        "code": "UNIV 1111",
+        "title": "Systemic Racism and Modes of Resilience",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26771"
+    },
+    {
+        "code": "UNIV 1211",
+        "title": "Brown Experiential Learning Practicum",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "18671"
+    },
+    {
+        "code": "UNIV 1221",
+        "title": "Brown Experiential Learning Practicum",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "18673"
+    },
+    {
+        "code": "UNIV 1801",
+        "title": "Brown in Washington, D.C. Practicum",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "18954"
+    }
+]

@@ -1,0 +1,203 @@
+[
+    {
+        "code": "ENVS 0070C",
+        "title": "Transcending Transportation Impacts",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "10184"
+    },
+    {
+        "code": "ENVS 0110",
+        "title": "Humans, Nature, and the Environment: Addressing Environmental Change in the 21st Century",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "10183"
+    },
+    {
+        "code": "ENVS 0490",
+        "title": "Environmental Science in a Changing World",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "20155"
+    },
+    {
+        "code": "ENVS 0715",
+        "title": "Political Ecology",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26144"
+    },
+    {
+        "code": "ENVS 0717",
+        "title": "Ocean Resilience: Ecology, Management, and Politics",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "18152"
+    },
+    {
+        "code": "ENVS 1107",
+        "title": "Cartography and Geovisualization",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26535"
+    },
+    {
+        "code": "ENVS 1201",
+        "title": "Introduction to Geographic Information Systems and Spatial Analysis (ANTH 1201)",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "19228"
+    },
+    {
+        "code": "ENVS 1207",
+        "title": "Eco-Entrepreneurship",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26146"
+    },
+    {
+        "code": "ENVS 1232",
+        "title": "Land Matters: Stewardship, Sovereignty, and Justice on the Ground",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26147"
+    },
+    {
+        "code": "ENVS 1247",
+        "title": "Clearing the Air: Environmental Studies of Pollution",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17990"
+    },
+    {
+        "code": "ENVS 1300",
+        "title": "Terrestrial Biogeochemistry, Ecosystems and the Global Carbon Cycle (EEPS 1300).",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "18928"
+    },
+    {
+        "code": "ENVS 1400",
+        "title": "Sustainable Design in the Built Environment",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "10185"
+    },
+    {
+        "code": "ENVS 1421",
+        "title": "Podcasting For the Common Good: Storytelling with Science",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26148"
+    },
+    {
+        "code": "ENVS 1545",
+        "title": "The Theory and Practice of Sustainable Investing",
+        "semesters": [
+            "Fall",
+            "Summer"
+        ],
+        "crn": "17991"
+    },
+    {
+        "code": "ENVS 1554",
+        "title": "Farm Planet: Hunger, Development, and the Future of Food and Agriculture",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17992"
+    },
+    {
+        "code": "ENVS 1555",
+        "title": "Local Food Systems and Urban Agriculture",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17993"
+    },
+    {
+        "code": "ENVS 1580",
+        "title": "Environmental Stewardship and Resilience in Urban Systems",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "20156"
+    },
+    {
+        "code": "ENVS 1615",
+        "title": "Climate Change, Human Rights, and the Policy Process",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "18951"
+    },
+    {
+        "code": "ENVS 1805",
+        "title": "Ocean Governance and Policy",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26192"
+    },
+    {
+        "code": "ENVS 1820",
+        "title": "China\u2019s Environmental History: Sources and Themes",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "18528"
+    },
+    {
+        "code": "ENVS 1823",
+        "title": "Climate Media, Discourse, and Power",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26534"
+    },
+    {
+        "code": "ENVS 1825",
+        "title": "Commodity Natures: Supply Chains From Extraction to Waste and Alternatives to Endless Growth",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17994"
+    },
+    {
+        "code": "ENVS 1911",
+        "title": "Narrating the Anthropocene",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17995"
+    },
+    {
+        "code": "ENVS 1925",
+        "title": "Energy Policy and Politics",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26196"
+    },
+    {
+        "code": "ENVS 1926",
+        "title": "Wasted: Rethinking Chemical Environments",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26197"
+    }
+]

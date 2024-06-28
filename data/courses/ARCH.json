@@ -1,0 +1,250 @@
+[
+    {
+        "code": "ARCH 0030",
+        "title": "Art in Antiquity: An Introduction",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26729"
+    },
+    {
+        "code": "ARCH 0033",
+        "title": "Past Forward: Discovering Anthropological Archaeology (ANTH 0500)",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "18806"
+    },
+    {
+        "code": "ARCH 0100",
+        "title": "Field Archaeology in the Ancient World",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "18531"
+    },
+    {
+        "code": "ARCH 0172",
+        "title": "South Asian Art and Architecture (HIAA 0023)",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "18807"
+    },
+    {
+        "code": "ARCH 0230",
+        "title": "Myriad Mediterraneans: Archaeology, Representation and Decolonization",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "18690"
+    },
+    {
+        "code": "ARCH 0322",
+        "title": "Somewhere Back in Time: Archaeology, the Ancient World, and Heavy Metal Music",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26491"
+    },
+    {
+        "code": "ARCH 0396",
+        "title": "Sacred Spaces: Synagogues, Churches, Mosques (JUDS 0050P).",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "18808"
+    },
+    {
+        "code": "ARCH 0398",
+        "title": "Arts of the Sacred and the Demonic in the Ancient Mediterranean (RELS 0405).",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "18809"
+    },
+    {
+        "code": "ARCH 0420",
+        "title": "Archaeologies of the Greek Past",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "18692"
+    },
+    {
+        "code": "ARCH 0528",
+        "title": "Living on the Edge: The Archaeology of Frontier Communities in the Roman Empire",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "18532"
+    },
+    {
+        "code": "ARCH 0755",
+        "title": "Engineering and Technology in the Ancient World",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "18736"
+    },
+    {
+        "code": "ARCH 0775",
+        "title": "Farm to Table: Foodways and Gastro-Politics in the Ancient Near East",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26490"
+    },
+    {
+        "code": "ARCH 1128",
+        "title": "The Long Fall of the Roman Empire (HIST 1205)",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "18821"
+    },
+    {
+        "code": "ARCH 1242",
+        "title": "Amazonia from the Prehuman to the Present (HIST 1360)",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "18822"
+    },
+    {
+        "code": "ARCH 1282",
+        "title": "Mediterranean Culture Wars: Archaic Greek History, c. 1200 to 479 BC (CLAS 1210)",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "18823"
+    },
+    {
+        "code": "ARCH 1544",
+        "title": "Heritage in the Metropolis: Remembering and Preserving the Urban Past (URBN 1871A)",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "18824"
+    },
+    {
+        "code": "ARCH 1630",
+        "title": "Fighting Pharaohs: Ancient Egyptian Warfare",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26493"
+    },
+    {
+        "code": "ARCH 1642",
+        "title": "Queering Ancient Egypt",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "18844"
+    },
+    {
+        "code": "ARCH 1772",
+        "title": "The Human Skeleton (ANTH 1720)",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "18826"
+    },
+    {
+        "code": "ARCH 1830",
+        "title": "Fake! History of the Inauthentic",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "18691"
+    },
+    {
+        "code": "ARCH 1864",
+        "title": "Paleoethnobotany: Ancient Agriculture to Criminal Investigations (ARCH 1864).",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "18827"
+    },
+    {
+        "code": "ARCH 1881",
+        "title": "Introduction to Geographic Information Systems and Spatial Analysis (ANTH 1201).",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "18828"
+    },
+    {
+        "code": "ARCH 1882",
+        "title": "Introduction to Geographic Information Systems for Environmental Applications (EEPS1320).",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "18829"
+    },
+    {
+        "code": "ARCH 1884",
+        "title": "Remote Sensing of Earth and Planetary Surfaces (EEPS 1710)",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "18830"
+    },
+    {
+        "code": "ARCH 1892",
+        "title": "Non-Destructive Archaeology: Reconstructing the Past from Geophysics to Drones",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26728"
+    },
+    {
+        "code": "ARCH 1900",
+        "title": "The Archaeology of College Hill",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "18535"
+    },
+    {
+        "code": "ARCH 2006",
+        "title": "Principles of Archaeology (ANTH 2501)",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "18831"
+    },
+    {
+        "code": "ARCH 2184",
+        "title": "Material Culture and the Bodily Senses: Past and Present",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "19144"
+    },
+    {
+        "code": "ARCH 2245",
+        "title": "Rural Landscapes and Peasant Communities in the Mediterranean",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "18534"
+    },
+    {
+        "code": "ARCH 2265",
+        "title": "Nature and Society in the Ancient World",
+        "semesters": [
+            "Spring"
+        ],
+        "crn": "26494"
+    },
+    {
+        "code": "ARCH 2559",
+        "title": "Finding the Viewer: The Reception of Ancient Art and Architecture (HIAA 2301)",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "19366"
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "code": "SANS 0100",
+        "title": "Elementary Sanskrit I",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17748"
+    },
+    {
+        "code": "SANS 0300",
+        "title": "Sanskrit Epic Narrative",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17749"
+    },
+    {
+        "code": "SANS 1500",
+        "title": "Sanskrit Song and Musicology",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "19317"
+    },
+    {
+        "code": "SANS 2970",
+        "title": "Sanskrit Preliminary Exam Preparation",
+        "semesters": [
+            "Fall",
+            "Spring"
+        ],
+        "crn": "16629"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "code": "MGRK 0100",
+        "title": "Introduction to Modern Greek",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17742"
+    },
+    {
+        "code": "MGRK 0300",
+        "title": "Intermediate Modern Greek",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17743"
+    },
+    {
+        "code": "MGRK 0500",
+        "title": "Advanced Modern Greek",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17744"
+    },
+    {
+        "code": "MGRK 1210",
+        "title": "A Migration Crisis? Displacement, Materiality, and Experience",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "19246"
+    },
+    {
+        "code": "MGRK 1800",
+        "title": "In Other Words: Translating Greece",
+        "semesters": [
+            "Fall"
+        ],
+        "crn": "17746"
+    }
+]
