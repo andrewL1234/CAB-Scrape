@@ -1,41 +1,178 @@
-{
-    "key": "6",
-    "mpkey": "2035",
-    "stat": "A",
-    "permreq": "N",
-    "rpt": "N",
-    "cart_opts": "{\"grade_mode\":{\"cart_field\":\"p_gmod\",\"enabled\":true,\"options\":[{\"value\":\"G\",\"label\":\"Standard ABC/No Credit\",\"default\":true,\"selected\":\"selected\"},{\"value\":\"A\",\"label\":\"Audit\",\"default\":false,\"selected\":\"\"},{\"value\":\"S\",\"label\":\"Satisfactory/No Credit\",\"default\":false,\"selected\":\"\"}]},\"credit_hrs\":{\"cartField\":\"p_hours\",\"enabled\":true,\"options\":[{\"value\":\"1\",\"label\":\"1\",\"default\":true,\"selected\":\"selected\"}]},\"swap_section_with\":{\"enabled\":true,\"options\":[{\"value\":\"\",\"label\":\"Not Applicable\",\"default\":true,\"selected\":\"selected\"}]}}",
-    "linked_crns": "",
-    "auto_enroll_sections": "",
-    "is_enroll_section": "",
-    "rfam": "3883",
-    "lrfam": "",
-    "isTeaching": "",
-    "changehash": "NXp0WTbmYjw3bXRGz8mH8g",
-    "code": "AFRI 0720",
-    "section": "S01",
-    "crn": "19237",
-    "title": "More Than Words: Contemporary Afro-Brazilian Fiction and Culture",
-    "seats": "<strong>Maximum Enrollment:</strong> <span class=\"seats_max\">18</span> / <strong>Seats Avail:</strong> <span class=\"seats_avail\">18</span>",
-    "dbtime": "Thu Jun 27 2024 18:47:04 GMT-0500 (CDT)",
-    "credits_html": "",
-    "registration_options": "",
-    "description": "This lecture/seminar course delves into Brazil's Black legacy through contemporary creative productions. We will focus on how the dimensions of race, class, ethnicity, gender, and sexuality are portrayed in Brazilian literature and cultural expression forms. Through the lens of Brazilian Black feminism, we will examine how race relations have influenced Brazil's national identity. The curriculum integrates theoretical and critical readings from Black Brazilian female intellectuals, intersecting with various mediums such as fiction, graphic novels, films, music, and visual arts. These mediums serve as powerful tools to confront Brazil's history of slavery, challenge the notion of racial democracy, and foster positive transformations in Afro-Brazilian representation.",
-    "registration_restrictions": "<p class=\"lvl\">Enrollment is limited to Undergraduate level students.</p><p class=\"chr\">Students in the Remote Study / Study Abroad cohort may <strong>not</strong> enroll.</p>",
-    "clssnotes": "",
-    "attr_html": "Race, Power, and Privilege (RPP)",
-    "resources_critical_review_html": "<a href=\"http://www.thecriticalreview.org/AFRI/0720\" target=\"_blank\">The Critical Review for AFRI 0720</a>",
-    "resources_syllabus_html": "<a href=\"#\" data-action=\"login,fetch-syllabus\" data-crn=\"19237\" data-subj-code=\"AFRI\" data-crse-numb=\"0720\">Class Syllabus</a>",
-    "resources_materials_html": "",
-    "exam_html": "<p>If an exam is scheduled for the final exam period, it will be held:<br/>Exam Date: 14-DEC-2024&#160;&#160;Exam Time: 02:00:00 PM&#160;&#160;Exam Group: 12</p>",
-    "meeting_html": "<div class=\"meet\">TTh 2:30pm-3:50pm Location TBD</div>",
-    "instructordetail_html": "<div class=\"instructor\"><div class=\"instructor-detail\"><div class=\"instructor-name\"><h4><a href=\"#\" data-action=\"search\" data-search-data-provider=\"search-by-instructor\" data-id=\"9012\">Karyn De Paula Mota</a></h4></div><p class=\"truncate\"><a href=\"mailto:karyn_mota@brown.edu\" target=\"_blank\">karyn_mota@brown.edu</a></p></div></div>",
-    "regdemog_html": "",
-    "regdemog_json": "",
-    "instruct_advert": "null",
-    "all_sections": "<div class=\"course-sections\" role=\"grid\" aria-readonly=\"true\"><div role=\"row\"><div role=\"columnheader\" scope=\"col\">Section #</div><div role=\"columnheader\" scope=\"col\">CRN</div><div role=\"columnheader\" scope=\"col\">Meets</div><div role=\"columnheader\" scope=\"col\">Instructor</div></div><a role=\"row\" href=\"#\" class=\"course-section\" data-action=\"result-detail\" data-group=\"code:AFRI 0720\" data-srcdb=\"202410\" data-key=\"crn:19237\"><div role=\"rowheader\" class=\"course-section-section\"><span class=\"header-text\">Section #: </span> S01</div><div role=\"gridcell\" class=\"course-section-crn\"><span class=\"header-text\">CRN: </span> 19237</div><div role=\"gridcell\" class=\"course-section-all-sections-meets\"><span class=\"header-text\">Meets: </span> TTh 2:30-3:50p</div><div role=\"gridcell\" class=\"course-section-instr\"><span class=\"header-text\">Instructor: </span> K. De Paula Mota</div></a></div><div class=\"course-sections-calendar text-center margin--huge\"><button class=\"btn btn--inverse\" data-action=\"show-sections-calendar\">VIEW CALENDAR</button></div>",
-    "suggestedcourses_html": "",
-    "books_btn": "<a class=\"btn\" href=\"http://insite.browntextbook.com/SelectCourses.aspx?src=2&TYPE=2&stoid=144&trm=Fall%2024&cid=19237\" target=\"_blank\">Purchase Books</a>",
-    "srcdb": "202410",
-    "allInGroup": []
-}
+[
+    {
+        "code": "AFRI 0090",
+        "title": "An Introduction to Africana Studies",
+        "semesters": [
+            "Fall"
+        ],
+        "crns": [
+            "10238"
+        ]
+    },
+    {
+        "code": "AFRI 0140",
+        "title": "First Lady of the Struggle:  Mary McLeod Bethune and Global Black Freedom",
+        "semesters": [
+            "Fall"
+        ],
+        "crns": [
+            "18648"
+        ]
+    },
+    {
+        "code": "AFRI 0160",
+        "title": "Twentieth-Century Africa",
+        "semesters": [
+            "Fall"
+        ],
+        "crns": [
+            "18696"
+        ]
+    },
+    {
+        "code": "AFRI 0670",
+        "title": "Global Black Radicalism",
+        "semesters": [
+            "Fall"
+        ],
+        "crns": [
+            "18644"
+        ]
+    },
+    {
+        "code": "AFRI 0720",
+        "title": "More Than Words: Contemporary Afro-Brazilian Fiction and Culture",
+        "semesters": [
+            "Fall"
+        ],
+        "crns": [
+            "19237"
+        ]
+    },
+    {
+        "code": "AFRI 0860",
+        "title": "Home and Homecoming",
+        "semesters": [
+            "Fall"
+        ],
+        "crns": [
+            "19168"
+        ]
+    },
+    {
+        "code": "AFRI 1060D",
+        "title": "The Harlem Renaissance: Art, Literature, and Classic Women Blues",
+        "semesters": [
+            "Fall"
+        ],
+        "crns": [
+            "18770"
+        ]
+    },
+    {
+        "code": "AFRI 1099",
+        "title": "Alternative Technofutures: Black Speculative Visioning for a Better Tomorrow",
+        "semesters": [
+            "Fall"
+        ],
+        "crns": [
+            "19344"
+        ]
+    },
+    {
+        "code": "AFRI 1181",
+        "title": "Black Women Visual Artists Global Contemporary Art in the United States",
+        "semesters": [
+            "Fall",
+            "Spring"
+        ],
+        "crns": [
+            "18977",
+            "26701"
+        ]
+    },
+    {
+        "code": "AFRI 1330",
+        "title": "Africana Studies Junior Seminar",
+        "semesters": [
+            "Fall"
+        ],
+        "crns": [
+            "10236"
+        ]
+    },
+    {
+        "code": "AFRI 1360",
+        "title": "Africana Studies: Knowledge, Texts and Methodology",
+        "semesters": [
+            "Spring"
+        ],
+        "crns": [
+            "20189"
+        ]
+    },
+    {
+        "code": "AFRI 2015",
+        "title": "Revolt and Revolution in the Black World",
+        "semesters": [
+            "Spring"
+        ],
+        "crns": [
+            "26886"
+        ]
+    },
+    {
+        "code": "AFRI 2101",
+        "title": "Methods in Africana Studies",
+        "semesters": [
+            "Fall"
+        ],
+        "crns": [
+            "19273"
+        ]
+    },
+    {
+        "code": "AFRI 2303",
+        "title": "Black Feminism and the Politics of Care",
+        "semesters": [
+            "Fall"
+        ],
+        "crns": [
+            "18697"
+        ]
+    },
+    {
+        "code": "AFRI 2970",
+        "title": "Preliminary Examination Preparation",
+        "semesters": [
+            "Fall",
+            "Spring"
+        ],
+        "crns": [
+            "16526",
+            "25196"
+        ]
+    },
+    {
+        "code": "AFRI 2990",
+        "title": "Thesis Preparation",
+        "semesters": [
+            "Fall",
+            "Spring"
+        ],
+        "crns": [
+            "16527",
+            "25197"
+        ]
+    },
+    {
+        "code": "AFRI XLIST",
+        "title": "Courses of Interest to Concentrators in Africana Studies",
+        "semesters": [
+            "Fall"
+        ],
+        "crns": [
+            "19321"
+        ]
+    }
+]

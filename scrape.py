@@ -4,7 +4,35 @@ import json
 import os
 import urllib.parse
 
-def generate_dept_payload(srcdb: str, is_ind_study: bool, is_canc: bool, code: str) -> str:
+def clear_save_directory():
+  """
+  Remove all files in directory data/courses/
+  """
+  path = "data/courses/"
+  for filename in os.listdir(path):
+    file_path = os.path.join(path, filename)
+    os.remove(file_path)
+
+def get_dept_codes():
+  """
+  Returns list of department codes from CAB website
+  """
+  # Gets the dropdown element in HTML page that contains list of departments
+  url = "https://cab.brown.edu/"
+  response = requests.get(url)
+  soup = BeautifulSoup(response.content, "html.parser")
+  dropdown = soup.find(id="crit-subject")
+  # Converts dropdown HTML to list of codes, filtering non-important child elements
+  codes = [(child["value"], child.text) for child in dropdown.children 
+           if (child.name == "option" and child.attrs["value"])]
+  
+  # Save codes to a file
+  with open("data/dept_codes.txt", "w") as f:
+    f.writelines([(code[0] + ", " + code[1] + "\n") for code in codes])
+
+  return [code[0] for code in codes]
+
+def generate_dept_payload(srcdb: str, is_ind_study: bool, is_canc: bool, dept_code: str) -> str:
   """
   Generates formatted payload string for retrieving department data
   
@@ -22,7 +50,7 @@ def generate_dept_payload(srcdb: str, is_ind_study: bool, is_canc: bool, code: s
     'criteria': [
       {
         'field': 'subject',
-        'value': code
+        'value': dept_code
       }
     ]
   }
@@ -58,107 +86,105 @@ def generate_course_payload(srcdb: str, code: str, crn: str) -> str:
   payload_dict_str = json.dumps(payload_dict)
   return urllib.parse.quote(payload_dict_str)
 
-def get_classes(course_code):
+def get_dept_courses(dept_code: str, term='999999') -> list[dict]:
+  """
+  Returns list containing all courses associated with the specified department and term
+  
+  Parameters:
+   - dept_code: Department code
+   - term: Which academic term to search, default '999999' (Any Term)
+  """
   url = (
     "https://cab.brown.edu/api/?page=fose&route=search&is_ind_study=N&is_canc=N&subject="
-    + course_code
+    + dept_code
   )
-  payload = generate_dept_payload('999999', False, False, course_code)
+  payload = generate_dept_payload(term, False, False, dept_code)
   response = requests.post(url, data=payload)
-  return response.json()
+  dept_dict = response.json()
+  return dept_dict['results']
 
-def get_course_codes():
+def get_semester(srcdb: str) -> str:
   """
-  Returns list of course codes from CAB website
-  """
-  # Gets the dropdown element in HTML page that contains list of departments
-  url = "https://cab.brown.edu/"
-  response = requests.get(url)
-  soup = BeautifulSoup(response.content, "html.parser")
-  dropdown = soup.find(id="crit-subject")
-  # Converts dropdown HTML to list of codes, filtering non-important child elements
-  codes = [(child["value"], child.text) for child in dropdown.children 
-           if (child.name == "option" and child.attrs["value"])]
+  Returns the semester of srcdb value
   
-  # Save codes to a file
-  with open("data/course_codes.txt", "w") as f:
-    f.writelines([(code[0] + ", " + code[1] + "\n") for code in codes])
-
-  return [code[0] for code in codes]
-
-def code_to_semester(result):
+  Parameters:
+   - srcdb: srcdb value of retrieved course
   """
-  Convert a course code to a semester
-  """
-  code = result["srcdb"]
-  subcode = code[4:]
-  if subcode == "10":
+  # Last two characters of srcdb indicate semester
+  semester = srcdb[4:]
+  if semester == "10":
     return "Fall"
-  elif subcode == "15":
+  elif semester == "15":
     return "Winter"
-  elif subcode == "20":
+  elif semester == "20":
     return "Spring"
-  elif subcode == "00":
+  elif semester == "00":
     return "Summer"
   else:
-    raise Exception("Invalid course code: " + code)
+    raise Exception(f"Invalid srcdb for semester lookup: {srcdb}")
 
-def filter_results(results):
+def organize_course_data(course_data: list[dict]) -> list[dict]:
   """
-  Removes duplicate courses
+  Organizes course data by combining entries with same course code,
+  and only keeping important fields in the course data. 
+  Course codes (ex: CSCI 0150) may appear multiple times in retrieved data 
+  because of course sections/labs.
+  
+  Parameters:
+   - course_data: A list of dictionaries that represents the course data to be organized
+     - Data structure can be found in examples/dept-courses-data-example.json
   """
-  seen_courses = set()
-  results_filtered = []
-  for result in results:
-    # Course codes (ex: CSCI 0150) may appear multiple times in retrieved data because of course sections/labs
-    if result["code"] not in seen_courses:
-        seen_courses.add(result["code"])
-        semesters = list(
-          set(
-            map(
-              code_to_semester,
-              filter(lambda x: x["code"] == result["code"], results),
-            )
-          )
-        )
-        results_filtered.append(
-          {
-            "code": result["code"],
-            "title": result["title"],
-            "semesters": semesters,
-            "crn": result["crn"],
-          }
-        )
+  processed_results = []
+  # Dictionary that will store pairs as: {course code, index in processed_results}
+  seen_courses = {}
+  for course in course_data:
+    course_sem = get_semester
+    if course['code'] not in seen_courses:
+      # Found unique course, add to results at index len(seen_courses) (end of results array)
+      seen_courses[course['code']] = len(seen_courses)
+      processed_results.append(
+        {
+          'code': course['code'],
+          'title': course['title'],
+          'semesters': set([get_semester(course['srcdb'])]), # List of semester offerings
+          'crns': set([course['crn']]) # List of crns associated with course
+        }
+      )
+    else:
+      # Course has already been stored, check if add to semester or crn data
+      stored_index = seen_courses[course['code']] # Probably unnecessary but just in case        
+      processed_results[stored_index]['semesters'].add(get_semester(course['srcdb']))
+      processed_results[stored_index]['crns'].add(course['crn'])
 
-  return results_filtered
+  # Convert sets into lists for JSON
+  for result in processed_results:
+    result['semesters'] = list(result['semesters'])
+    result['crns'] = list(result['crns'])
+  return processed_results
 
 def save_all_class_data():
-  codes = get_course_codes()
-  all_results = []
-  for code in codes:
-    data = get_classes(code)
-    results = data["results"]
-    fixed_results = filter_results(results)
-    all_results.extend(fixed_results)
-
-    with open("data/courses/" + code + ".json", "w") as f:
-      json.dump(fixed_results, f, indent=4)
-    print(code, ":", len(data["results"]), "classes")
-
-  with open("data/courses_complete.json", "w") as f:
-    json.dump(all_results, f, indent=4)
-  print("Saved data for " + str(len(codes)) + " departments")
-
-def clear_save_directory():
   """
-  Remove all files in directory data/courses/
+  Runs other functions in order to retrieve & save all data
   """
-  path = "data/courses/"
-  for filename in os.listdir(path):
-    file_path = os.path.join(path, filename)
-    os.remove(file_path)
+  dept_codes = get_dept_codes()
+  all_course_data = []
+  # Retrieve course data for all departments and combine
+  for code in dept_codes:
+    dept_courses = get_dept_courses(code)
+    print(f"Retrieved {len(dept_courses)} courses from {code}")
+    all_course_data.extend(dept_courses)
+  # Organize course data and write to file
+  organized_course_data = organize_course_data(all_course_data)
+  with open('data/courses_complete.json', 'w', encoding='utf-8') as f:
+    json.dump(organized_course_data, f, ensure_ascii=False, indent=4)
+    
+  print(f"Saved data for {len(dept_codes)} departments and "
+        f"{len(organized_course_data)} courses to data/courses_complete.json")
 
 if __name__ == "__main__":
-  data = get_classes("AFRI")
-  with open("examples/dept-data-example.json", "w", encoding="utf-8") as f:
-      json.dump(data, f, ensure_ascii=False, indent=4)
+  save_all_class_data()
+  # data = get_dept_courses("AFRI")
+  # test = organize_course_data(data)
+  # # print(test)
+  # with open("result-test.json", "w", encoding="utf-8") as f:
+  #     json.dump(test, f, ensure_ascii=False, indent=4)
