@@ -3,6 +3,7 @@ from bs4 import BeautifulSoup
 import json
 import os
 import urllib.parse
+import time
 
 def clear_save_directory():
   """
@@ -31,6 +32,26 @@ def get_dept_codes():
     f.writelines([(code[0] + " " + code[1] + "\n") for code in codes])
 
   return [code[0] for code in codes]
+
+def get_semester(srcdb: str) -> str:
+  """
+  Returns the semester of srcdb value
+  
+  Parameters:
+   - srcdb: srcdb value of retrieved course
+  """
+  # Last two characters of srcdb indicate semester
+  semester = srcdb[4:]
+  if semester == "10":
+    return "Fall"
+  elif semester == "15":
+    return "Winter"
+  elif semester == "20":
+    return "Spring"
+  elif semester == "00":
+    return "Summer"
+  else:
+    raise Exception(f"Invalid srcdb for semester lookup: {srcdb}")
 
 def generate_dept_payload(srcdb: str, is_ind_study: bool, is_canc: bool, dept_code: str) -> str:
   """
@@ -117,30 +138,9 @@ def get_course_details(dept_code: str, crn: str, term='999999') -> dict:
   response = requests.post(url, data=payload)
   return response.json()
 
-def get_semester(srcdb: str) -> str:
-  """
-  Returns the semester of srcdb value
-  
-  Parameters:
-   - srcdb: srcdb value of retrieved course
-  """
-  # Last two characters of srcdb indicate semester
-  semester = srcdb[4:]
-  if semester == "10":
-    return "Fall"
-  elif semester == "15":
-    return "Winter"
-  elif semester == "20":
-    return "Spring"
-  elif semester == "00":
-    return "Summer"
-  else:
-    raise Exception(f"Invalid srcdb for semester lookup: {srcdb}")
-
 def organize_all_courses(all_course_data: list[dict]) -> list[dict]:
   """
-  Organizes course data by combining entries with same course code,
-  and only keeping important fields in the course data. 
+  Organizes course data by combining entries with same course code.
   Course codes (ex: CSCI 0150) may appear multiple times in retrieved data 
   because of course sections/labs.
   
@@ -173,6 +173,9 @@ def organize_all_courses(all_course_data: list[dict]) -> list[dict]:
   for result in processed_results:
     result['semesters'] = list(result['semesters'])
     result['crns'] = list(result['crns'])
+    # Sort the crns
+    result['crns'].sort(key=int)
+    # result['crns'] = sorted(result['crns'], key=int)
   return processed_results
 
 def add_course_details(course_data: dict):
@@ -184,19 +187,22 @@ def add_course_details(course_data: dict):
   """
   dept_code = course_data['code'].split(' ')[0]
   crn = course_data['crns'][0] # Choose arbitrary crn
-  individual_course_data = get_course_details(dept_code, crn)
-  # Only keep relevant keys in course details dictionary
-  keys_to_keep = ['seats', 'description', 'registration_restrictions', 'clssnotes', 
-                  'resources_critical_review_html', 'resources_syllabus_html', 
-                  'resources_materials_html', 'exam_html', 'meeting_html',
-                  'instructordetail_html', 'regdemog_json', 'all_sections']
-  filtered_data = dict((key, individual_course_data[key]) 
-                       for key in keys_to_keep if key in individual_course_data)
-  course_data['details'] = filtered_data
+  # individual_course_data = get_course_details(dept_code, crn)
+  course_data['details'] = get_course_details(dept_code, crn)
+  # # Only keep relevant keys in course details dictionary
+  # keys_to_keep = ['key', 'cart_opts', 'linked_crns', 'section', 'seats', 'description', 
+  #                 'registration_restrictions', 'clssnotes', 'attr_html', 'exam_html', 
+  #                 'meeting_html', 'instructordetail_html', 'regdemog_json', 'all_sections']
+  # filtered_data = dict((key, individual_course_data[key]) 
+  #                      for key in keys_to_keep if key in individual_course_data)
+  # course_data['details'] = filtered_data
 
-def save_all_course_data():
+def save_all_course_data(term='999999'):
   """
   Runs required functions to retrieve & save course data
+
+  Parameters:
+   - term: Which academic term to search, default '999999' (Any Term)
   """
   # Get stored department codes
   with open('data/dept_codes.txt', 'r') as f:
@@ -205,17 +211,25 @@ def save_all_course_data():
   all_course_data = []
   # Retrieve course data for all departments and combine
   for code in dept_codes:
-    dept_courses = get_dept_courses(code)
+    dept_courses = get_dept_courses(code, term)
     print(f"Retrieved {len(dept_courses)} courses from {code}")
     all_course_data.extend(dept_courses)
     
   # Organize course data and write to file
   organized_course_data = organize_all_courses(all_course_data)
+
+  with open('data/courses_complete_basic.json', 'w', encoding='utf-8') as f:
+    json.dump(organized_course_data, f, ensure_ascii=False, indent=4)
+
   # For progress updates
+  save_course_start = time.time()
   course_count = len(organized_course_data)
   for completed, course_data in enumerate(organized_course_data):
     add_course_details(course_data)
     print(f'Saved {completed} of {course_count} courses')
+  
+  save_course_end = time.time()
+  print(f"Saving courses took {save_course_end - save_course_start} seconds")
   
   with open('data/courses_complete.json', 'w', encoding='utf-8') as f:
     json.dump(organized_course_data, f, ensure_ascii=False, indent=4)
